@@ -1,178 +1,233 @@
 {
 "articles":[
+  {
+   "title": "Яичница с авокадо на завтрак",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_avokado.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_avokado.webp"
+ },
+
  {
-   "title": "Шоколадные трюфели",
+   "title": "Чечевичные котлеты: вкусно и полезно",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_ceceviza_kotleta.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_ceceviza_kotleta.webp"
+ },
+
+ {
+   "title": "Семена чиа: маленькие суперфуды с большими выгодами для здоровья",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_cia.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_cia.webp"
+ },
+
+ {
+   "title": "Пищевые добавки для укрепления иммунитета",
    "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/shokoladnye-triufeli-64f1d11479ce922913dbc395",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/4569450/pub_64f1d11479ce922913dbc395_64f1d19fa54edf2052b330ad/scale_1200"
+   "url": "https://amaranth64.github.io/html/article_dobavki_imm.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_dobavki_imm.webp"
+ },
+
+ {
+   "title": "Что такое гликемический индекс",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_gi.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_gi.webp"
+ },
+
+ {
+   "title": "От чего зависит гликемический индекс?",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_gi_depend.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_gi_depend.webp"
+ },
+
+ {
+   "title": "Диеты с учетом ГИ",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_gi_diet.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_gi_diet.webp"
+ },
+
+ {
+   "title": "Стоит ли исключать продукты с высоким ГИ?",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_gi_exclude.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_gi_exclude.webp"
+ },
+
+ {
+   "title": "Для чего гликемический индекс нужен спортсменам?",
+   "category": "Спорт и питание",
+   "url": "https://amaranth64.github.io/html/article_gi_sport.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_gi_sport.webp"
  },
  {
-  "title": "Отношение объема талии к объему бедер",
+   "title": "Что такое гликемическая нагрузка?",
    "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
+   "url": "https://amaranth64.github.io/html/article_gn.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_gn.webp"
  },
+
  {
-   "title": "Глазированные стейки с бальзамическим уксусом",
+   "title": "Азбука здорового сна",
    "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
+   "url": "https://amaranth64.github.io/html/article_good_sleep.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_good_sleep.webp"
  },
+
+ {
+   "title": "Греческий йогурт: вдохновение для здорового стиля жизни",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_greakyugurt.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_greakyugurt.webp"
+ },
+
+ {
+   "title": "Грецкие орехи: здоровье и вкус в одном",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_greek_oreh.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_greek_oreh.webp"
+ },
+
+ {
+   "title": "Гуакамоле: мексиканская закуска",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_guakomoli.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_guakomoli.webp"
+ },
+
+ {
+   "title": "Как определить идеальный вес: основные методы и формулы",
+   "category": "Расчеты и калькуляторы",
+   "url": "https://amaranth64.github.io/html/article_ideal.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_ideal.webp"
+ },
+
+ {
+   "title": "Что такое инсулиновый индекс и как им пользоваться?",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_ii.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_ii.webp"
+ },
+
+ {
+   "title": "Индекс массы тела: значение, измерение и забота о здоровье",
+   "category": "Расчеты и калькуляторы",
+   "url": "https://amaranth64.github.io/html/article_imt.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_imt.webp"
+ },
+
+ {
+   "title": "Что такое клетчатка и ее польза для человека",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_kletchatka.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_kletchatka.webp"
+ },
+
+ {
+   "title": "TOP-5 самых полезных круп",
+   "category": "Общая",
+   "url": "https://amaranth64.github.io/html/article_krupa.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_krupa.webp"
+ },
+
+ {
+   "title": "Как правильно заваривать облепиховый чай",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_oblepiha_tea.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_oblepiha_tea.webp"
+ },
+
  {
    "title": "Продукты, снижающие холестерин",
    "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
+   "url": "https://amaranth64.github.io/html/article_product_holesterin.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_product_holesterin.webp"
  },
+
  {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
+   "title": "Формула МакКаллума: идеальные пропорции тела",
+   "category": "Расчеты и калькуляторы",
+   "url": "https://amaranth64.github.io/html/article_proportion.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_proportion.webp"
  },
+
  {
-  "title": "Отношение объема талии к объему бедер",
-   "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
+   "title": "Рецепт тыквенного супа",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_rep_tykva.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_rep_tykva.webp"
  },
+
  {
-   "title": "Глазированные стейки с бальзамическим уксусом",
-   "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
+   "title": "Углеводы и особенности их потребления в спортивном питании",
+   "category": "Спорт и питание",
+   "url": "https://amaranth64.github.io/html/article_sport_carbo.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_sport_carbo.webp"
  },
+
  {
-   "title": "Продукты, снижающие холестерин",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
+   "title": "Белки и особенности их потребления в спортивном питании",
+   "category": "Спорт и питание",
+   "url": "https://amaranth64.github.io/html/article_sport_protein.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_sport_protein.webp"
  },
+
  {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
+   "title": "Особенности эргогенной диететики",
+   "category": "Спорт и питание",
+   "url": "https://amaranth64.github.io/html/article_sportdietetika.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_sportdietetika.webp"
  },
+
  {
-  "title": "Отношение объема талии к объему бедер",
-   "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
+   "title": "Как рассчитать суточную норму калорий",
+   "category": "Расчеты и калькуляторы",
+   "url": "https://amaranth64.github.io/html/article_supply.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_supply.webp"
  },
+
  {
-   "title": "Глазированные стейки с бальзамическим уксусом",
-   "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
+   "title": "Отношение объема талии к объему бедер",
+   "category": "Расчеты и калькуляторы",
+   "url": "https://amaranth64.github.io/html/article_taliabedra.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_taliabedra.webp"
  },
+
  {
-   "title": "Продукты, снижающие холестерин",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
+   "title": "Отношение объема талии к росту",
+   "category": "Расчеты и калькуляторы",
+   "url": "https://amaranth64.github.io/html/article_taliarost.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_taliarost.webp"
  },
+
  {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
+   "title": "Тыква - чудо овощ",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_tykva.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_tykva.webp"
  },
+
  {
-  "title": "Отношение объема талии к объему бедер",
-   "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
+   "title": "Кабачковое варенье: вкусное и необычное лакомство",
+   "category": "Рецепты",
+   "url": "https://amaranth64.github.io/html/article_varcabak.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_varcabak.webp"
  },
+
  {
-   "title": "Глазированные стейки с бальзамическим уксусом",
+   "title": "Витамин D - Подарок Солнца",
    "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
+   "url": "https://amaranth64.github.io/html/article_vitaminD.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_vitaminD.webp"
  },
+
  {
-   "title": "Продукты, снижающие холестерин",
+   "title": "Что такое хлебные единицы и как ими пользоваться?",
    "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
- },
- {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
- },
- {
-  "title": "Отношение объема талии к объему бедер",
-   "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
- },
- {
-   "title": "Глазированные стейки с бальзамическим уксусом",
-   "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
- },
- {
-   "title": "Продукты, снижающие холестерин",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
- },
- {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
- },
- {
-  "title": "Отношение объема талии к объему бедер",
-   "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
- },
- {
-   "title": "Глазированные стейки с бальзамическим уксусом",
-   "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
- },
- {
-   "title": "Продукты, снижающие холестерин",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
- },
- {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
- },
- {
-  "title": "Отношение объема талии к объему бедер",
-   "category": "Общая",
-  "url": "https://dzen.ru/media/healthandeating/otnoshenie-obema-talii-k-obemu-beder-64f0eb6631101e7f2266a40f",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1906120/pub_64f0eb6631101e7f2266a40f_64f0eb87c0c2b046279904fc/scale_1200"
- },
- {
-   "title": "Глазированные стейки с бальзамическим уксусом",
-   "category": "Общая",
-   "url": "https://dzen.ru/media/healthandeating/glazirovannye-steiki-s-balzamicheskim-uksusom-64f1cd917d7d4f5f9cc88802",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_64f1cd917d7d4f5f9cc88802_64f1d00d113e7a6a57b7b359/scale_1200"
- },
- {
-   "title": "Продукты, снижающие холестерин",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/10131288/pub_650aafac0cf8e02ac2dff80b_650ab13ed9ae5c1dd8e414c7/scale_1200"
- },
- {
-   "title": "Грецкие орехи: Здоровье и вкус в одном",
-   "category": "Общая",
-   "url": "https://dzen.ru/a/ZQqvrAz44CrC3_gL?referrer_clid=1400&",
-   "picURL": "https://avatars.dzeninfra.ru/get-zen_doc/1908497/pub_6505dc314902e3207d2495f8_6505df4cdacde078c80179ff/scale_1200"
+   "url": "https://amaranth64.github.io/html/article_xe.html",
+   "picURL": "https://amaranth64.github.io/webpimg/article_xe.webp"
  }
  ]
 }
