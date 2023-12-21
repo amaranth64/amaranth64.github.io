@@ -9,14 +9,6 @@
    "description": "Мэри Уорт жила глубоко в лесу в крошечном коттедже и зарабатывала на жизнь продажей лекарственных трав..."
  },
  {
-   "id": 102,
-   "category": "Истории",
-   "title": "Домовой из детства",
-   "url": "https://amaranth64.github.io/myth/html/his_child_domovoy.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_child_domovoy.webp",
-   "description": "В давние времена, когда в наших стенах шумел черно-белый телевизор, а виниловые пластинки были на пике популярности..."
- },
- {
    "id": 103,
    "category": "Истории",
    "title": "Хлоп-хлоп",
@@ -24,6 +16,15 @@
    "picURL": "https://amaranth64.github.io/myth/images/his_clap_clap.webp",
    "description": "Однажды одна семья отправилась в однодневный поход в лес. Когда Они были в уже далеко в глубине леса, внезапно разразилась буря..."
  },
+ {
+   "id": 102,
+   "category": "Истории",
+   "title": "Домовой из детства",
+   "url": "https://amaranth64.github.io/myth/html/his_child_domovoy.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_child_domovoy.webp",
+   "description": "В давние времена, когда в наших стенах шумел черно-белый телевизор, а виниловые пластинки были на пике популярности..."
+ },
+
  {
    "id": 104,
    "category": "Истории",
@@ -35,7 +36,7 @@
  {
    "id": 105,
    "category": "Легенда",
-   "title": "",
+   "title": "Дом №4",
    "url": "https://amaranth64.github.io/myth/html/his_home_4.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_home_4.webp",
    "description": "Давным-давно, в самом сердце города Ханаоки, появилась загадочная и страшная история, передаваемая от поколения к поколению..."
@@ -95,6 +96,55 @@
    "url": "https://amaranth64.github.io/myth/html/his_unseen_warning.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_unseen_warning.webp",
    "description": "Молодая девущка возвращалась домой после долгого отпуска..."
- }
+ },
+ {
+   "id": 113,
+   "category": "Истории",
+   "title": "Случай с мистером Салливаном",
+   "url": "https://amaranth64.github.io/myth/html/his_ms_sally.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_ms_sally.webp",
+   "description": "Холодным зимним днем мистер Салливан пришел в себя, когда шел по краю дороги..."
+ },
+ {
+   "id": 114,
+   "category": "Истории",
+   "title": "Тайна старой фермы",
+   "url": "https://amaranth64.github.io/myth/html/his_old_farm.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_old_farm.webp",
+   "description": "Когда я и моя сестра Мэри были детьми, наша семья некоторое время жила в очаровательном старом фермерском доме..."
+ },
+
+ {
+   "id": 115,
+   "category": "Истории",
+   "title": "Кто-то под моей кроватью",
+   "url": "https://amaranth64.github.io/myth/html/his_under_bed.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_under_bed.webp",
+   "description": "Отец зашел пожелать спокойной ночи своему сыну..."
+ },
+ {
+   "id": 116,
+   "category": "Истории",
+   "title": "Особенный Чарли",
+   "url": "https://amaranth64.github.io/myth/html/his_good_charli.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_good_charli.webp",
+   "description": "Я ненавижу, когда моему брату Чарли приходится уезжать..."
+ },
+ {
+   "id": 117,
+   "category": "Истории",
+   "title": "Проклятая кукла",
+   "url": "https://amaranth64.github.io/myth/html/his_haunted_doll.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_haunted_doll.webp",
+   "description": "Маленькая девочка очень любила кукол. У нее дома была огромная коллекция самых разных кукол..."
+ },
+ {
+   "id": 118,
+   "category": "Истории",
+   "title": "Трусливый попутчик",
+   "url": "https://amaranth64.github.io/myth/html/his_hitchhiker.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_hitchhiker.webp",
+   "description": "Темной дождливой ночью мужчина стоял на пустынном шоссе, ожидая, когда его подвезут домой..."
+ } 
 ]
 }
