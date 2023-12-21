@@ -1,0 +1,98 @@
+[
+ {
+   "id": 101,
+   "category": "Истории",
+   "title": "Кровавая Мэри",
+   "url": "https://amaranth64.github.io/myth/html/his_bloody_mary.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_bloody_mary.webp",
+   "description": "Мэри Уорт жила глубоко в лесу в крошечном коттедже и зарабатывала на жизнь продажей лекарственных трав..."
+ },
+ {
+   "id": 102,
+   "category": "Истории",
+   "title": "Домовой из детства",
+   "url": "https://amaranth64.github.io/myth/html/his_child_domovoy.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_child_domovoy.webp",
+   "description": "В давние времена, когда в наших стенах шумел черно-белый телевизор, а виниловые пластинки были на пике популярности..."
+ },
+ {
+   "id": 103,
+   "category": "Истории",
+   "title": "Хлоп-хлоп",
+   "url": "https://amaranth64.github.io/myth/html/his_clap_clap.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_clap_clap.webp",
+   "description": "Однажды одна семья отправилась в однодневный поход в лес. Когда Они были в уже далеко в глубине леса, внезапно разразилась буря..."
+ },
+ {
+   "id": 104,
+   "category": "Истории",
+   "title": "Статуя клоуна",
+   "url": "https://amaranth64.github.io/myth/html/his_cloune_statue.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_cloune_statue.webp",
+   "description": "Супружеская пара решила провести вечер вдвоем. Они позвонили своей самой надежной няне, чтобы та присмотрела за их детьми..."
+ },
+ {
+   "id": 105,
+   "category": "Легенда",
+   "title": "",
+   "url": "https://amaranth64.github.io/myth/html/his_home_4.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_home_4.webp",
+   "description": "Давным-давно, в самом сердце города Ханаоки, появилась загадочная и страшная история, передаваемая от поколения к поколению..."
+ },
+ {
+   "id": 106,
+   "category": "Истории",
+   "title": "Поцелуй Кутисакэ-онна",
+   "url": "https://amaranth64.github.io/myth/html/.html",
+   "picURL": "https://amaranth64.github.io/myth/images/.webp",
+   "description": "Однажды ночью, наемный работник Таро был разгорячен сакэ и успехом..."
+ },
+ {
+   "id": 107,
+   "category": "Истории",
+   "title": "Телефонный призрак",
+   "url": "https://amaranth64.github.io/myth/html/his_phone_ghost.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_phone_ghost.webp",
+   "description": "Прошлой ночью друзья в спешке выдернули меня из дома, чтобы успеть на открытие музыкального вечеринки в местном баре..."
+ },
+ {
+   "id": 108,
+   "category": "Истории",
+   "title": "Под фонарем с пионом",
+   "url": "https://amaranth64.github.io/myth/html/his_pion_fonar.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_pion_fonar.webp",
+   "description": "Давным-давно, в первую ночь Обона, овдовевший самурай по имени Огивара Шиннодзе сидел на своем крыльце, наблюдая, как день сменяется ночью..."
+ },
+ {
+   "id": 109,
+   "category": "Легенда",
+   "title": "Легенда о Красной комнате",
+   "url": "https://amaranth64.github.io/myth/html/his_red_room.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_red_room.webp",
+   "description": "Жил-был один обычный мальчик, который любил очень много времени проводить в интернете и практически не вылезил из-за своего компьютера..."
+ },
+ {
+   "id": 110,
+   "category": "Истории",
+   "title": "Призрак в такси",
+   "url": "https://amaranth64.github.io/myth/html/his_taxi_ghost.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_taxi_ghost.webp",
+   "description": "Таксист знал, что призраки в Японии обитают не только на древних кладбищах и в призрачных святилищах..."
+ },
+ {
+   "id": 111,
+   "category": "Легенда",
+   "title": "Тоннель Киётаки",
+   "url": "https://amaranth64.github.io/myth/html/his_tonnel_kietaki.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_tonnel_kietaki.webp",
+   "description": "Тоннель Киётаки является одним из самых известных мест с привидениями на территории Японии..."
+ },
+ {
+   "id": 112,
+   "category": "Истории",
+   "title": "Незамеченное предупреждение",
+   "url": "https://amaranth64.github.io/myth/html/his_unseen_warning.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_unseen_warning.webp",
+   "description": "Молодая девущка возвращалась домой после долгого отпуска..."
+ }
+]
