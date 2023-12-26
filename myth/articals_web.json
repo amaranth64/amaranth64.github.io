@@ -1,6 +1,46 @@
 {
 "articles":[
  {
+   "id": 1,
+   "category": "Легенда",
+   "title": "Изчезновение Оливера Ларча",
+   "url": "https://amaranth64.github.io/myth/html/his_oliver_larch.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_oliver_larch.webp",
+   "description": "Эта история произошла в канун Рождества 24 декабря 1889 года, когда праздничные гуляния были в самом разгаре..."
+ },
+ {
+   "id": 2,
+   "category": "Истории",
+   "title": "Руки",
+   "url": "https://amaranth64.github.io/myth/html/his_hands.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_hands.webp",
+   "description": "Мне не нужна терапия. Кажется, что у моих рук своя жизнь.."
+ },
+ {
+   "id": 3,
+   "category": "Истории",
+   "title": "Старая газета",
+   "url": "https://amaranth64.github.io/myth/html/his_old_paper.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_old_paper.webp",
+   "description": "Однажды темной ночью полицейскому было поручено охранять участок, который состоял из старого кладбища..."
+ },
+ {
+   "id": 4,
+   "category": "Легенда",
+   "title": "Кэндимен",
+   "url": "https://amaranth64.github.io/myth/html/his_candyman.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_candyman.webp",
+   "description": "Легенда гласит, если вы произнесете перед зеркалом “Кэндимен” пять раз, призрак его будет преследовать вас..."
+ },
+ {
+   "id": 5,
+   "category": "Истории",
+   "title": "Выпускной вечер",
+   "url": "https://amaranth64.github.io/myth/html/his_vypusknoy.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_vypusknoy.webp",
+   "description": "Джонни возвращался домой поздно ночью. Он ехал на машине по темным проселочным дорогам.."
+ }, 
+ {
    "id": 101,
    "category": "Истории",
    "title": "Кровавая Мэри",
