@@ -2,7 +2,7 @@
 "articles":[
  {
    "id": 1,
-   "category": "Легенда",
+   "category": "Таинственная история",
    "title": "Изчезновение Оливера Ларча",
    "url": "https://amaranth64.github.io/myth/html/his_oliver_larch.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_oliver_larch.webp",
@@ -10,7 +10,7 @@
  },
  {
    "id": 2,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Руки",
    "url": "https://amaranth64.github.io/myth/html/his_hands.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_hands.webp",
@@ -18,7 +18,7 @@
  },
  {
    "id": 3,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Старая газета",
    "url": "https://amaranth64.github.io/myth/html/his_old_paper.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_old_paper.webp",
@@ -26,23 +26,15 @@
  },
  {
    "id": 4,
-   "category": "Легенда",
+   "category": "Городская легенда",
    "title": "Кэндимен",
    "url": "https://amaranth64.github.io/myth/html/his_candyman.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_candyman.webp",
    "description": "Легенда гласит, если вы произнесете перед зеркалом “Кэндимен” пять раз, призрак его будет преследовать вас..."
  },
  {
-   "id": 5,
-   "category": "Истории",
-   "title": "Выпускной вечер",
-   "url": "https://amaranth64.github.io/myth/html/his_vypusknoy.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_vypusknoy.webp",
-   "description": "Джонни возвращался домой поздно ночью. Он ехал на машине по темным проселочным дорогам.."
- }, 
- {
    "id": 101,
-   "category": "Истории",
+   "category": "Городская легенда",
    "title": "Кровавая Мэри",
    "url": "https://amaranth64.github.io/myth/html/his_bloody_mary.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_bloody_mary.webp",
@@ -50,96 +42,31 @@
  },
  {
    "id": 103,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Хлоп-хлоп",
    "url": "https://amaranth64.github.io/myth/html/his_clap_clap.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_clap_clap.webp",
    "description": "Однажды одна семья отправилась в однодневный поход в лес. Когда Они были в уже далеко в глубине леса, внезапно разразилась буря..."
  },
  {
-   "id": 102,
-   "category": "Истории",
-   "title": "Домовой из детства",
-   "url": "https://amaranth64.github.io/myth/html/his_child_domovoy.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_child_domovoy.webp",
-   "description": "В давние времена, когда в наших стенах шумел черно-белый телевизор, а виниловые пластинки были на пике популярности..."
- },
-
- {
    "id": 104,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Статуя клоуна",
    "url": "https://amaranth64.github.io/myth/html/his_cloune_statue.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_cloune_statue.webp",
    "description": "Супружеская пара решила провести вечер вдвоем. Они позвонили своей самой надежной няне, чтобы та присмотрела за их детьми..."
  },
  {
-   "id": 105,
-   "category": "Легенда",
-   "title": "Дом №4",
-   "url": "https://amaranth64.github.io/myth/html/his_home_4.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_home_4.webp",
-   "description": "Давным-давно, в самом сердце города Ханаоки, появилась загадочная и страшная история, передаваемая от поколения к поколению..."
- },
- {
-   "id": 106,
-   "category": "Истории",
-   "title": "Поцелуй Кутисакэ-онна",
-   "url": "https://amaranth64.github.io/myth/html/his_ktisake_onna.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_ktisake_onna.webp",
-   "description": "Однажды ночью, наемный работник Таро был разгорячен сакэ и успехом..."
- },
- {
-   "id": 107,
-   "category": "Истории",
-   "title": "Телефонный призрак",
-   "url": "https://amaranth64.github.io/myth/html/his_phone_ghost.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_phone_ghost.webp",
-   "description": "Прошлой ночью друзья в спешке выдернули меня из дома, чтобы успеть на открытие музыкального вечеринки в местном баре..."
- },
- {
-   "id": 108,
-   "category": "Истории",
-   "title": "Под фонарем с пионом",
-   "url": "https://amaranth64.github.io/myth/html/his_pion_fonar.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_pion_fonar.webp",
-   "description": "Давным-давно, в первую ночь Обона, овдовевший самурай по имени Огивара Шиннодзе сидел на своем крыльце, наблюдая, как день сменяется ночью..."
- },
- {
    "id": 109,
-   "category": "Легенда",
+   "category": "Городская легенда",
    "title": "Легенда о Красной комнате",
    "url": "https://amaranth64.github.io/myth/html/his_red_room.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_red_room.webp",
    "description": "Жил-был один обычный мальчик, который любил очень много времени проводить в интернете и практически не вылезил из-за своего компьютера..."
  },
  {
-   "id": 110,
-   "category": "Истории",
-   "title": "Призрак в такси",
-   "url": "https://amaranth64.github.io/myth/html/his_taxi_ghost.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_taxi_ghost.webp",
-   "description": "Таксист знал, что призраки в Японии обитают не только на древних кладбищах и в призрачных святилищах..."
- },
- {
-   "id": 111,
-   "category": "Легенда",
-   "title": "Тоннель Киётаки",
-   "url": "https://amaranth64.github.io/myth/html/his_tonnel_kietaki.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_tonnel_kietaki.webp",
-   "description": "Тоннель Киётаки является одним из самых известных мест с привидениями на территории Японии..."
- },
- {
-   "id": 112,
-   "category": "Истории",
-   "title": "Незамеченное предупреждение",
-   "url": "https://amaranth64.github.io/myth/html/his_unseen_warning.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_unseen_warning.webp",
-   "description": "Молодая девущка возвращалась домой после долгого отпуска..."
- },
- {
    "id": 113,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Случай с мистером Салливаном",
    "url": "https://amaranth64.github.io/myth/html/his_ms_sally.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_ms_sally.webp",
@@ -147,7 +74,7 @@
  },
  {
    "id": 114,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Тайна старой фермы",
    "url": "https://amaranth64.github.io/myth/html/his_old_farm.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_old_farm.webp",
@@ -156,7 +83,7 @@
 
  {
    "id": 115,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Кто-то под моей кроватью",
    "url": "https://amaranth64.github.io/myth/html/his_under_bed.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_under_bed.webp",
@@ -164,7 +91,7 @@
  },
  {
    "id": 116,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Особенный Чарли",
    "url": "https://amaranth64.github.io/myth/html/his_good_charli.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_good_charli.webp",
@@ -172,19 +99,11 @@
  },
  {
    "id": 117,
-   "category": "Истории",
+   "category": "Страшная история на ночь",
    "title": "Проклятая кукла",
    "url": "https://amaranth64.github.io/myth/html/his_haunted_doll.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_haunted_doll.webp",
    "description": "Маленькая девочка очень любила кукол. У нее дома была огромная коллекция самых разных кукол..."
- },
- {
-   "id": 118,
-   "category": "Истории",
-   "title": "Трусливый попутчик",
-   "url": "https://amaranth64.github.io/myth/html/his_hitchhiker.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_hitchhiker.webp",
-   "description": "Темной дождливой ночью мужчина стоял на пустынном шоссе, ожидая, когда его подвезут домой..."
- } 
+ }
 ]
 }
