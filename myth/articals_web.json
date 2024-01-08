@@ -104,6 +104,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_haunted_doll.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_haunted_doll.webp",
    "description": "Одна девушка очень любила кукол. У нее дома была огромная коллекция самых разных кукол..."
+ },
+ {
+   "id": 118,
+   "category": "Сказки народов мира",
+   "title": "Паучок Ананси",
+   "url": "https://amaranth64.github.io/myth/html/his_anansy.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_anansy.webp",
+   "description": "Сказка о том, как паучок перехитрил муху, бабочку и комара."
  }
 ]
 }
