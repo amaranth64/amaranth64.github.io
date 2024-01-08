@@ -119,7 +119,15 @@
    "title": "Малютка Брауни",
    "url": "https://amaranth64.github.io/myth/html/his_brauny.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_brauny.webp",
-   "description": ">Брауни — так называют в Англии домовых, они похожи они на малюсеньких смешных человечков и бывают довольно симпатичные, но ужасно капризные."
+   "description": "Брауни — так называют в Англии домовых, они похожи они на малюсеньких смешных человечков и бывают довольно симпатичные, но ужасно капризные."
+ },
+ {
+   "id": 120,
+   "category": "Сказки народов мира",
+   "title": "Баба-яга",
+   "url": "https://amaranth64.github.io/myth/html/his_babayaga.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_babayaga.webp",
+   "description": "Жили-были муж с женой, и была у них дочка. Заболела жена и умерла. Погоревал-погоревал мужик да и женился на другой..."
  }
 ]
 }
