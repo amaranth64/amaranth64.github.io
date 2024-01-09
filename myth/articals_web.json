@@ -9,6 +9,30 @@
    "description": "Эта история произошла в канун Рождества 24 декабря 1889 года, когда праздничные гуляния были в самом разгаре..."
  },
  {
+   "id": 118,
+   "category": "Сказки народов мира",
+   "title": "Паучок Ананси",
+   "url": "https://amaranth64.github.io/myth/html/his_anansy.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_anansy.webp",
+   "description": "Сказка о том, как паучок перехитрил муху, бабочку и комара."
+ },
+ {
+   "id": 119,
+   "category": "Сказки народов мира",
+   "title": "Малютка Брауни",
+   "url": "https://amaranth64.github.io/myth/html/his_brauny.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_brauny.webp",
+   "description": "Брауни — так называют в Англии домовых, они похожи они на малюсеньких смешных человечков и бывают довольно симпатичные, но ужасно капризные."
+ },
+ {
+   "id": 120,
+   "category": "Сказки народов мира",
+   "title": "Баба-яга",
+   "url": "https://amaranth64.github.io/myth/html/his_babayaga.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_babayaga.webp",
+   "description": "Жили-были муж с женой, и была у них дочка. Заболела жена и умерла. Погоревал-погоревал мужик да и женился на другой..."
+ }, 
+ {
    "id": 2,
    "category": "Страшная история на ночь",
    "title": "Руки",
@@ -80,7 +104,6 @@
    "picURL": "https://amaranth64.github.io/myth/images/his_old_farm.webp",
    "description": "Когда я и моя сестра Мэри были детьми, наша семья некоторое время жила в очаровательном старом фермерском доме..."
  },
-
  {
    "id": 115,
    "category": "Страшная история на ночь",
@@ -104,30 +127,6 @@
    "url": "https://amaranth64.github.io/myth/html/his_haunted_doll.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_haunted_doll.webp",
    "description": "Одна девушка очень любила кукол. У нее дома была огромная коллекция самых разных кукол..."
- },
- {
-   "id": 118,
-   "category": "Сказки народов мира",
-   "title": "Паучок Ананси",
-   "url": "https://amaranth64.github.io/myth/html/his_anansy.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_anansy.webp",
-   "description": "Сказка о том, как паучок перехитрил муху, бабочку и комара."
- },
- {
-   "id": 119,
-   "category": "Сказки народов мира",
-   "title": "Малютка Брауни",
-   "url": "https://amaranth64.github.io/myth/html/his_brauny.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_brauny.webp",
-   "description": "Брауни — так называют в Англии домовых, они похожи они на малюсеньких смешных человечков и бывают довольно симпатичные, но ужасно капризные."
- },
- {
-   "id": 120,
-   "category": "Сказки народов мира",
-   "title": "Баба-яга",
-   "url": "https://amaranth64.github.io/myth/html/his_babayaga.html",
-   "picURL": "https://amaranth64.github.io/myth/images/his_babayaga.webp",
-   "description": "Жили-были муж с женой, и была у них дочка. Заболела жена и умерла. Погоревал-погоревал мужик да и женился на другой..."
  }
 ]
 }
