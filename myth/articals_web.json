@@ -129,12 +129,20 @@
    "description": "Одна девушка очень любила кукол. У нее дома была огромная коллекция самых разных кукол..."
  },
  {
-   "id": 117,
+   "id": 118,
    "category": "Городская легенда",
    "title": "Пропавшая невеста",
    "url": "https://amaranth64.github.io/myth/html/his_bride.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_bride.webp",
    "description": "Молодая пара поженилась и после свадьбы они устроили прием в доме бабушки невесты."
+ },
+ {
+   "id": 119,
+   "category": "Городская легенда",
+   "title": "Водитель автобуса",
+   "url": "https://amaranth64.github.io/myth/html/his_bus_driver.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_bus_driver.webp",
+   "description": "Однажды один водитель автобус перевозил психически больных пациенов в государственную психиатрическую лечебницу... "
  }
 ]
 }
