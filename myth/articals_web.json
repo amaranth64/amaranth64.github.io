@@ -150,7 +150,15 @@
    "title": "Взгляни на меня",
    "url": "https://amaranth64.github.io/myth/html/his_look_at_me.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_look_at_me.webp",
-   "description": "Страшная правдивая история о девочке-подростке, которая одной ненастной ночью переживает жуткие события, когда родители уходят и оставляют ее дома одну. "
+   "description": "Страшная правдивая история о девочке-подростке, которая одной ненастной ночью переживает жуткие события, когда родители уходят и оставляют ее дома одну."
+ },
+ {
+   "id": 121,
+   "category": "Страшная история на ночь",
+   "title": "Чердак",
+   "url": "https://amaranth64.github.io/myth/html/his_attic.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_attic.webp",
+   "description": "Страшная история о старике, который поздно ночью слышит странный шум на чердаке."
  }
 ]
 }
