@@ -159,6 +159,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_attic.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_attic.webp",
    "description": "Страшная история о старике, который поздно ночью слышит странный шум на чердаке."
+ },
+ {
+   "id": 122,
+   "category": "Городская легендаь",
+   "title": "Бесконечная дорога",
+   "url": "https://amaranth64.github.io/myth/html/his_notend_road.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_notend_road.webp",
+   "description": "Жуткая городская легенда о таинственной дороге на которой изчезали люди."
  }
 ]
 }
