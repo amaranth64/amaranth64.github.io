@@ -167,6 +167,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_notend_road.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_notend_road.webp",
    "description": "Жуткая городская легенда о таинственной дороге на которой изчезали люди."
+ },
+ {
+   "id": 123,
+   "category": "Страшная история на ночь",
+   "title": "Короткие пужалки",
+   "url": "https://amaranth64.github.io/myth/html/his_short_story.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_short_story.webp",
+   "description": "Сборник коротких и страшных историй"
  }
 ]
 }
