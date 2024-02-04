@@ -175,6 +175,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_short_story.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_short_story.webp",
    "description": "Сборник коротких и страшных историй"
+ },
+ {
+   "id": 124,
+   "category": "Городская легенда",
+   "title": "Белое платье",
+   "url": "https://amaranth64.github.io/myth/html/his_white_gown.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_white_gown.webp",
+   "description": "История о девушке, которая покупает платье из секонд-хенда и идет в нем на вечеринку."
  }
 ]
 }
