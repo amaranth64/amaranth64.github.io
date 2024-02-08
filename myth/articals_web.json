@@ -183,6 +183,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_white_gown.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_white_gown.webp",
    "description": "История о девушке, которая покупает платье из секонд-хенда и идет в нем на вечеринку."
+ },
+ {
+   "id": 125,
+   "category": "Страшная история на ночь",
+   "title": "Хронограф",
+   "url": "https://amaranth64.github.io/myth/html/his_chrono.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_chrono.webp",
+   "description": "История о часах, показывающих оставшееся время жизни."
  }
 ]
 }
