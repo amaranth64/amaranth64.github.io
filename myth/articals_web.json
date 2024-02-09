@@ -191,6 +191,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_chrono.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_chrono.webp",
    "description": "История о часах, показывающих оставшееся время жизни."
+ },
+ {
+   "id": 126,
+   "category": "Страшная история на ночь",
+   "title": "Другой Я",
+   "url": "https://amaranth64.github.io/myth/html/his_wap.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_stalker.webp",
+   "description": "История из мессенджера пропавшей девушки."
  }
 ]
 }
