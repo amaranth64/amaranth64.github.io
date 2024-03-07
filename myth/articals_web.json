@@ -207,6 +207,22 @@
    "url": "https://amaranth64.github.io/myth/html/his_suit.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_suit.webp",
    "description": "Женщина пришла в похоронное бюро, чтобы осмотреть труп своего мужа..."
+ },
+ {
+   "id": 128,
+   "category": "Страшная история на ночь",
+   "title": "Загадочная соседка",
+   "url": "https://amaranth64.github.io/myth/html/his_neibour.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_neibour.webp",
+   "description": "История о загадочной соседке, приходящей ночью"
+ },
+ {
+   "id": 129,
+   "category": "Страшная история на ночь",
+   "title": "Вы не видели моего сына?",
+   "url": "https://amaranth64.github.io/myth/html/his_nofindson.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_nofindson.webp",
+   "description": "Мой сын промал!!!"
  }
 ]
 }
