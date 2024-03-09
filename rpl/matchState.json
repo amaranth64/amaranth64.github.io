@@ -1,5 +1,7 @@
 {
    "name": "Сокол Саратов - Зенит Спб",
    "url": "https://amaranth64.github.io/rpl/level1.json",
-   "visible": false
+   "home": "logo_lokomotiv_moscow",
+   "guest": "logo_krasnodar",
+   "visible": true
 }
