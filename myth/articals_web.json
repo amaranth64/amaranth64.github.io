@@ -223,6 +223,22 @@
    "url": "https://amaranth64.github.io/myth/html/his_nofindson.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_nofindson.webp",
    "description": "Мой сын промал!!!"
+ },
+ {
+   "id": 130,
+   "category": "Страшная история на ночь",
+   "title": "Мальчик на горной дороге",
+   "url": "https://amaranth64.github.io/myth/html/his_boyonride.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_boyonride.webp",
+   "description": "Однажды ночью супружеская пара ехала по горной дороге..."
+ },
+ {
+   "id": 131,
+   "category": "Городская легенда",
+   "title": "Человек в лифте",
+   "url": "https://amaranth64.github.io/myth/html/his_elevator.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_elevator.webp",
+   "description": "Корейская городская легенда о девочке, которая живет на 14 этаже многоквартирного дома."
  }
 ]
 }
