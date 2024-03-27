@@ -310,17 +310,17 @@
         "slugQue": "mt_loko_kr",
         "comment": "",
         "slugCorAns": "mt_loko_kr",
-        "txtCorAns": "1:4",
+        "txtCorAns": "1:4 (победа ФК Локомотив)",
         "wrSlgAns1": "pic_wrong",
         "wrTxtAns1": "1:1",
         "wrSlgAns2": "pic_wrong",
         "wrTxtAns2": "0:0",
         "wrSlgAns3": "pic_wrong",
-        "wrTxtAns3": "1:2",
+        "wrTxtAns3": "1:2  (победа ФК Красндар",
         "wrSlgAns4": "pic_wrong",
-        "wrTxtAns4": "0:2",
+        "wrTxtAns4": "0:2  (победа ФК Локомотив)",
         "wrSlgAns5": "pic_wrong",
-        "wrTxtAns5": "0:5"
+        "wrTxtAns5": "0:5  (победа ФК Краснодар"
     },
     {
         "type": 1,
@@ -435,5 +435,24 @@
         "wrTxtAns4": "Никита Кривцов",
         "wrSlgAns5": "pic_wrong",
         "wrTxtAns5": "Егор Сорокин"
+    },
+    {
+        "type": 1,
+        "level": 1,
+        "textQue": "Кто из футболистов играл за оба клуба?",
+        "slugQue": "mt_loko_kr",
+        "comment": "2013-2021 Краснодар_2017-2018 ФК Локомотив М",
+        "slugCorAns": "mt_ari",
+        "txtCorAns": "Ари",
+        "wrSlgAns1": "pic_wrong",
+        "wrTxtAns1": "Дмитрий Баринов",
+        "wrSlgAns2": "pic_wrong",
+        "wrTxtAns2": "Илья Самошников",
+        "wrSlgAns3": "pic_wrong",
+        "wrTxtAns3": "Эдуард Сперцян",
+        "wrSlgAns4": "pic_wrong",
+        "wrTxtAns4": "Сергей Петров",
+        "wrSlgAns5": "pic_wrong",
+        "wrTxtAns5": "Александр Черников"
     }
 ]
