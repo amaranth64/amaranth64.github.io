@@ -195,7 +195,7 @@
         "textQue": "В каком году был основан ФК \"Спартак Москва\"?",
         "slugQue": "lg_spartak",
         "comment": "Спартак Москва был основан в 1922 году",
-        "slugCorAns": "sm_create",
+        "slugCorAns": "sm_old",
         "txtCorAns": 1922,
         "wrSlgAns1": "pic_wrong",
         "wrTxtAns1": 1913,
