@@ -252,7 +252,7 @@
         "textQue": "В каком году состоялась первая в истории встреча между этими командами?",
         "slugQue": "mt_din_spa",
         "comment": "17 июня 1923 года_Красная Пресня 3:2 Динамо М",
-        "slugCorAns": "",
+        "slugCorAns": "mt_din_spa",
         "txtCorAns": 1923,
         "wrSlgAns1": "pic_wrong",
         "wrTxtAns1": 1933,
