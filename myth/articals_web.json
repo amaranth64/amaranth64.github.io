@@ -247,6 +247,22 @@
    "url": "https://amaranth64.github.io/myth/html/his_sara.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_sara.webp",
    "description": "История о симпатичной девушке по соседству"
+ },
+ {
+   "id": 133,
+   "category": "Страшная история на ночь",
+   "title": "Большой сюрприз",
+   "url": "https://amaranth64.github.io/myth/html/his_bigsurpice.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_bigsurpice.webp",
+   "description": "История о детском любопытстве )))"
+ },
+ {
+   "id": 134,
+   "category": "Страшная история на ночь",
+   "title": "Парень и смерть",
+   "url": "https://amaranth64.github.io/myth/html/his_boyanddeath.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_boyanddeath.webp",
+   "description": "История о предопределённости судьбы"
  }
 ]
 }
