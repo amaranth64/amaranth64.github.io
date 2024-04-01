@@ -1,7 +1,7 @@
 {
-   "name": "Локомотив М - Краснодар",
-   "url": "https://amaranth64.github.io/rpl/level1.json",
-   "home": "lg_lokomotiv",
-   "guest": "lg_krasnodar",
+   "name": "Динамо М - Спартак М",
+   "url": "https://amaranth64.github.io/rpl/md_din_spa.json",
+   "home": "lg_dinamo",
+   "guest": "lg_spartak",
    "visible": true
 }
