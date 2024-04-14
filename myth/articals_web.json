@@ -263,6 +263,22 @@
    "url": "https://amaranth64.github.io/myth/html/his_boyanddeath.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_boyanddeath.webp",
    "description": "История о предопределённости судьбы"
+ },
+ {
+   "id": 135,
+   "category": "Страшная история на ночь",
+   "title": "Кто это был?",
+   "url": "https://amaranth64.github.io/myth/html/his_whoisit.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_whoisit.webp",
+   "description": "Ночь тянулась медленно. Мой отец ушел на работу..."
+ },
+ {
+   "id": 136,
+   "category": "Страшная история на ночь",
+   "title": "Насекомые-защитникиь",
+   "url": "https://amaranth64.github.io/myth/html/his_insdef.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_insdef.webp",
+   "description": "Он проснулся от того, что над его кроватью нависли огромные насекомоподобные существа и закричал во все горло..."
  }
 ]
 }
