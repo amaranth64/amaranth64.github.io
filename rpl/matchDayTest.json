@@ -1,7 +1,7 @@
 {
-   "name": "Краснодар - Зенит СПб",
-   "url": "https://amaranth64.github.io/rpl/md_kra_zen.json",
-   "home": "lg_krasnodar",
-   "guest": "lg_zenit",
+   "name": "Ростов - Спартак М",
+   "url": "https://amaranth64.github.io/rpl/md_ros_spa.json",
+   "home": "lg_rostov",
+   "guest": "lg_spartak",
    "visible": true
 }
