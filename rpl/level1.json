@@ -2,7 +2,7 @@
     {
         "type": 4,
         "level": 1,
-        "textQue": "Кто из них_Джон Кордоба?",
+        "textQue": "Кто из них\nДжон Кордоба?",
         "slugQue": "kr_kordoba",
         "comment": "Нападающий",
         "slugCorAns": "kr_kordoba",
@@ -21,7 +21,7 @@
     {
         "type": 4,
         "level": 1,
-        "textQue": "Кто из них_Артём Дзюба?",
+        "textQue": "Кто из них\nАртём Дзюба?",
         "slugQue": "lm_dzuba",
         "comment": "Нападающий",
         "slugCorAns": "lm_dzuba",
@@ -40,7 +40,7 @@
     {
         "type": 4,
         "level": 1,
-        "textQue": "Кто из них_Наир Тикнизян?",
+        "textQue": "Кто из них\nНаир Тикнизян?",
         "slugQue": "lm_tiknizian",
         "comment": "Защитник",
         "slugCorAns": "lm_tiknizian",
@@ -51,15 +51,15 @@
         "wrTxtAns2": "Артём Дзюба",
         "wrSlgAns3": "lm_gilerme",
         "wrTxtAns3": "Маринато Гилерме",
-        "wrSlgAns4": "lm_kulikov",
-        "wrTxtAns4": "Даниил Куликов",
-        "wrSlgAns5": "lm_muradishvili",
-        "wrTxtAns5": "Константин Марадишвили"
+        "wrSlgAns4": "lm_gerzinio",
+        "wrTxtAns4": "Жерзино Ньямси",
+        "wrSlgAns5": "lm_konti",
+        "wrTxtAns5": "Херман Конти"
     },
     {
         "type": 4,
         "level": 1,
-        "textQue": "Кто из них_Александр Эктов?",
+        "textQue": "Кто из них\nАлександр Эктов?",
         "slugQue": "kr_ektov",
         "comment": "Защитник",
         "slugCorAns": "kr_ektov",
@@ -70,8 +70,8 @@
         "wrTxtAns2": "Александр Кокшаров",
         "wrSlgAns3": "kr_krivzov",
         "wrTxtAns3": "Никита Кривцов",
-        "wrSlgAns4": "kr_shapi",
-        "wrTxtAns4": "Магомед-Шапи Сулейманов",
+        "wrSlgAns4": "kr_safonov",
+        "wrTxtAns4": "Матвей Сафонов",
         "wrSlgAns5": "kr_spezian",
         "wrTxtAns5": "Эдуард Сперцян"
     },
