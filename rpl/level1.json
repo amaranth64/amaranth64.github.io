@@ -1,8 +1,8 @@
 [
     {
-        "type": 1,
+        "type": 4,
         "level": 1,
-        "textQue": "Кто этот футболист?",
+        "textQue": "Кто из них_Джон Кордоба?",
         "slugQue": "kr_kordoba",
         "comment": "Нападающий",
         "slugCorAns": "kr_kordoba",
@@ -19,9 +19,9 @@
         "wrTxtAns5": "Жуниор Алонсо"
     },
     {
-        "type": 1,
+        "type": 4,
         "level": 1,
-        "textQue": "Кто этот футболист?",
+        "textQue": "Кто из них_Артём Дзюба?",
         "slugQue": "lm_dzuba",
         "comment": "Нападающий",
         "slugCorAns": "lm_dzuba",
@@ -38,9 +38,9 @@
         "wrTxtAns5": "Егор Погостнов"
     },
     {
-        "type": 1,
+        "type": 4,
         "level": 1,
-        "textQue": "Кто этот футболист?",
+        "textQue": "Кто из них_Наир Тикнизян?",
         "slugQue": "lm_tiknizian",
         "comment": "Защитник",
         "slugCorAns": "lm_tiknizian",
@@ -57,9 +57,9 @@
         "wrTxtAns5": "Константин Марадишвили"
     },
     {
-        "type": 1,
+        "type": 4,
         "level": 1,
-        "textQue": "Кто этот футболист?",
+        "textQue": "Кто из них_Александр Эктов?",
         "slugQue": "kr_ektov",
         "comment": "Защитник",
         "slugCorAns": "kr_ektov",
@@ -397,62 +397,5 @@
         "wrTxtAns4": "Жуниор Алонсо",
         "wrSlgAns5": "pic_wrong",
         "wrTxtAns5": "Витор Тормена"
-    },
-    {
-        "type": 1,
-        "level": 1,
-        "textQue": "Угадай футболиста по трансферам",
-        "slugQue": "tran_pinyaev",
-        "comment": "Нападающий",
-        "slugCorAns": "lm_piniaev",
-        "txtCorAns": "Сергей Пиняев",
-        "wrSlgAns1": "lm_nenahov",
-        "wrTxtAns1": "Максим Ненахов",
-        "wrSlgAns2": "lm_samoshnikov",
-        "wrTxtAns2": "Илья Самошников",
-        "wrSlgAns3": "lm_shetinin",
-        "wrTxtAns3": "Михаил Щетинин",
-        "wrSlgAns4": "lm_fasson",
-        "wrTxtAns4": "Наир Тикнизян",
-        "wrSlgAns5": "lm_konti",
-        "wrTxtAns5": "Аслан Засеев"
-    },
-    {
-        "type": 1,
-        "level": 1,
-        "textQue": "Угадай футболиста по трансферам",
-        "slugQue": "tran_petrov",
-        "comment": "Защитник",
-        "slugCorAns": "kr_petrov",
-        "txtCorAns": "Сергей Петров",
-        "wrSlgAns1": "pic_wrong",
-        "wrTxtAns1": "Матвей Сафонов",
-        "wrSlgAns2": "pic_wrong",
-        "wrTxtAns2": "Александр Эктов",
-        "wrSlgAns3": "pic_wrong",
-        "wrTxtAns3": "Михайло Баньяц",
-        "wrSlgAns4": "pic_wrong",
-        "wrTxtAns4": "Никита Кривцов",
-        "wrSlgAns5": "pic_wrong",
-        "wrTxtAns5": "Егор Сорокин"
-    },
-    {
-        "type": 1,
-        "level": 1,
-        "textQue": "Кто из футболистов играл за оба клуба?",
-        "slugQue": "mt_loko_kr",
-        "comment": "2013-2021 Краснодар_2017-2018 ФК Локомотив М",
-        "slugCorAns": "mt_ari",
-        "txtCorAns": "Ари",
-        "wrSlgAns1": "pic_wrong",
-        "wrTxtAns1": "Дмитрий Баринов",
-        "wrSlgAns2": "pic_wrong",
-        "wrTxtAns2": "Илья Самошников",
-        "wrSlgAns3": "pic_wrong",
-        "wrTxtAns3": "Эдуард Сперцян",
-        "wrSlgAns4": "pic_wrong",
-        "wrTxtAns4": "Сергей Петров",
-        "wrSlgAns5": "pic_wrong",
-        "wrTxtAns5": "Александр Черников"
     }
 ]
