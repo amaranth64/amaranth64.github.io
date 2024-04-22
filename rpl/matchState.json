@@ -1,7 +1,7 @@
 {
-   "name": "Ростов - Спартак М",
-   "url": "https://amaranth64.github.io/rpl/md_ros_spa.json",
-   "home": "lg_rostov",
+   "name": "ЦСКА М - Спартак М",
+   "url": "https://amaranth64.github.io/rpl/md_cska_spa.json",
+   "home": "lg_cska",
    "guest": "lg_spartak",
    "visible": true
 }
