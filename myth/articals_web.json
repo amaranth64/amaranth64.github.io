@@ -287,6 +287,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_witchfuck.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_witchfuck.webp",
    "description": "Веселая и немного страшная история из детства."
+ },
+ {
+   "id": 138,
+   "category": "Страшно и смешно",
+   "title": "Один дома",
+   "url": "https://amaranth64.github.io/myth/html/his_homealone.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_homealone.webp",
+   "description": "Родители уехали на выходные на дачу и я остался дома один..."
  }
 ]
 }
