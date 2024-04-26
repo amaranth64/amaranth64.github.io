@@ -129,8 +129,8 @@
   "wrTxtAns3": "Нино",
   "wrSlgAns4": "zs_erokhin",
   "wrTxtAns4": "Александр Ерохин",
-  "wrSlgAns5": "zs_sutormin",
-  "wrTxtAns5": "Алексей Сутормин"
+  "wrSlgAns5": "zs_vasiliev",
+  "wrTxtAns5": "Дмитрий Васильев"
  },
  {
   "type": 2,
@@ -241,13 +241,13 @@
   "wrTxtAns2": "Арсен Захарян",
   "wrSlgAns3": "dm_laxalt",
   "wrTxtAns3": "Диего Лаксальт",
-  "wrSlgAns4": "dm_lesovoy",
-  "wrTxtAns4": "Даниил Лесовой",
+  "wrSlgAns4": "dm_fernandez",
+  "wrTxtAns4": "Роберто Фернандес",
   "wrSlgAns5": "dm_smolov",
   "wrTxtAns5": "Фёдор Смолов"
  },
  {
-  "type": 2,
+  "type": 1,
   "level": 1,
   "textQue": "Кто является текущим капитаном Зенита?",
   "slugQue": "lg_zenit",
@@ -260,8 +260,8 @@
   "wrTxtAns2": "Александр Ерохин",
   "wrSlgAns3": "zs_semak",
   "wrTxtAns3": "Сергей Семак",
-  "wrSlgAns4": "zs_bakaev",
-  "wrTxtAns4": "Зелимхан Бакаев",
+  "wrSlgAns4": "zs_mostovoy",
+  "wrTxtAns4": " Андрей Мостовой",
   "wrSlgAns5": "zs_fernandez",
   "wrTxtAns5": "Марио Фернандес"
  },
@@ -630,7 +630,7 @@
   "type": 1,
   "level": 1,
   "textQue": "Сколько поражений на данный момент у Зенита в этом сезоне РПЛ?",
-  "slugQue": "pic_quest",
+  "slugQue": "lg_zenit",
   "comment": "Зенит повторил антирекорд по поражениям за сезон при Семаке - 5",
   "slugCorAns": "lg_zenit",
   "txtCorAns": "5 поражений",
