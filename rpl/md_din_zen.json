@@ -247,14 +247,14 @@
   "wrTxtAns5": "Фёдор Смолов"
  },
  {
-  "type": 1,
+  "type": 2,
   "level": 1,
-  "textQue": "Кто является текущим капитаном Зенита?",
+  "textQue": "Кто является текущим капитаном ФК Зенит?",
   "slugQue": "lg_zenit",
   "comment": "Бразильский защитник_Перешёл в Зенит летом 2019 года из Гамбурга",
   "slugCorAns": "zs_santos",
-  "txtCorAns": " Дуглас Сантос",
-  "wrSlgAns1": "zs_kerzhakov",
+  "txtCorAns": "Дуглас Сантос",
+  "wrSlgAns1": "zs_kerzhakov",А
   "wrTxtAns1": "Михаил Кержаков",
   "wrSlgAns2": "zs_erokhin",
   "wrTxtAns2": "Александр Ерохин",
@@ -325,7 +325,7 @@
  {
   "type": 1,
   "level": 1,
-  "textQue": "Кто является спортивным талиманом Зенит?",
+  "textQue": "Кто является спортивным талисманом ФК Зенит?",
   "slugQue": "lg_zenit",
   "comment": "В 1996 году неофициальным символом клуба стал лев.",
   "slugCorAns": "zs_maskot",
@@ -342,9 +342,9 @@
   "wrTxtAns5": "Пингвин"
  },
  {
-  "type": 2,
+  "type": 1,
   "level": 1,
-  "textQue": "Кто тренерует Динамо М?",
+  "textQue": "Кто тренерует ФК Динамо М?",
   "slugQue": "lg_dinamo",
   "comment": "  ",
   "slugCorAns": "dm_licka",
@@ -361,9 +361,9 @@
   "wrTxtAns5": "Сергей Игнашевич"
  },
  {
-  "type": 2,
+  "type": 1,
   "level": 1,
-  "textQue": "Кто тренерует Зенит?",
+  "textQue": "Кто тренерует ФК Зенит?",
   "slugQue": "lg_zenit",
   "comment": "  ",
   "slugCorAns": "zs_semak",
@@ -443,17 +443,17 @@
   "slugQue": "cup_uefa",
   "comment": "В сезоне 1971\/72 «Динамо» стало первым клубом из Советского Союза, которому удалось выйти в финал еврокубка.",
   "slugCorAns": "lg_dinamo",
-  "txtCorAns": "Динамо М",
+  "txtCorAns": "Динамо Москва",
   "wrSlgAns1": "pic_wrong",
-  "wrTxtAns1": "Динамо К",
+  "wrTxtAns1": "Динамо Киев",
   "wrSlgAns2": "pic_wrong",
-  "wrTxtAns2": "Спартак М",
+  "wrTxtAns2": "Спартак Москва",
   "wrSlgAns3": "pic_wrong",
-  "wrTxtAns3": "Зенит",
+  "wrTxtAns3": "Зенит Ленинград",
   "wrSlgAns4": "pic_wrong",
-  "wrTxtAns4": "Локомотив М",
+  "wrTxtAns4": "Динамо Минск",
   "wrSlgAns5": "pic_wrong",
-  "wrTxtAns5": "Шахтёр"
+  "wrTxtAns5": "Динамо Тбилиси"
  },
  {
   "type": 1,
@@ -624,7 +624,7 @@
   "wrSlgAns4": "akron_tolyatti",
   "wrTxtAns4": "Акрон",
   "wrSlgAns5": "torpedo",
-  "wrTxtAns5": "Торпедо М"
+  "wrTxtAns5": "Торпедо"
  },
  {
   "type": 1,
