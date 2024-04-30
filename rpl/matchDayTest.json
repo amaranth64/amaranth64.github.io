@@ -1,7 +1,7 @@
 {
-   "name": "Динамо М - Зенит СПб",
-   "url": "https://amaranth64.github.io/rpl/md_din_zen.json",
-   "home": "lg_dinamo",
-   "guest": "lg_zenit",
+   "name": "Локомотив М - Ростов",
+   "url": "https://amaranth64.github.io/rpl/md_lok_ros.json",
+   "home": "lg_lokomotiv",
+   "guest": "lg_rostov",
    "visible": true
 }
