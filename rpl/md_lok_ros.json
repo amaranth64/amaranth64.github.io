@@ -593,7 +593,7 @@
         "level": 1,
         "textQue": "Угадай футболиста по трансферам",
         "slugQue": "tran_terentiev",
-        "comment": "Зенит СПб_Томь_Ростов_Зенит СПб_Уфа_Ростов",
+        "comment": "Зенит СПб - Томь -Ростов - Зенит СПб - Уфа - Ростов",
         "slugCorAns": "ro_terentiev",
         "txtCorAns": "Денис Терентьев",
         "wrSlgAns1": "pic_wrong",
@@ -603,7 +603,7 @@
         "wrSlgAns3": "pic_wrong",
         "wrTxtAns3": "Максим Осипенко",
         "wrSlgAns4": "pic_wrong",
-        "wrTxtAns4": "Никита  Чернов",
+        "wrTxtAns4": "Никита Чернов",
         "wrSlgAns5": "pic_wrong",
         "wrTxtAns5": "Данил Глебов"
     },
