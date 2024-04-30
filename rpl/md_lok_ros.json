@@ -358,7 +358,7 @@
         "wrSlgAns4": "lm_shetinin",
         "wrTxtAns4": "Михаил Щетинин",
         "wrSlgAns5": "lm_miranchuk",
-        "wrTxtAns5": " Антон Миранчук"
+        "wrTxtAns5": "Антон Миранчук"
     },
     {
         "type": 1,
@@ -367,7 +367,7 @@
         "slugQue": "mt_lok_ros",
         "comment": "Локомотив (1986 - 1990, 1992 - 2005, 2009 - 2010, 2016 - 2020), Ростов (2021)",
         "slugCorAns": "lg_lokomotiv",
-        "txtCorAns": " Юрий Сёмин",
+        "txtCorAns": "Юрий Сёмин",
         "wrSlgAns1": "pic_wrong",
         "wrTxtAns1": "Валерий Карпин",
         "wrSlgAns2": "pic_wrong",
