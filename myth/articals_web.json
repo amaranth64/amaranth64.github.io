@@ -303,6 +303,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_stetem.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_stetem.webp",
    "description": "У каждого из нас есть страхи и не всегда они совпадают"
+ },
+ {
+   "id": 140,
+   "category": "Страшная история на ночь",
+   "title": "Три истории",
+   "url": "https://amaranth64.github.io/myth/html/his_tristory.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_tristory.webp",
+   "description": "Три коротких страшных истории на ночь"
  }
 ]
 }
