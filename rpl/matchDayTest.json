@@ -1,7 +1,7 @@
 {
-   "name": "Локомотив М - Ростов",
-   "url": "https://amaranth64.github.io/rpl/md_lok_ros.json",
-   "home": "lg_lokomotiv",
-   "guest": "lg_rostov",
+   "name": "Зенит СПб - ЦСКА",
+   "url": "https://amaranth64.github.io/rpl/md_zen_cska.json",
+   "home": "lg_zenit",
+   "guest": "lg_cska",
    "visible": true
 }
