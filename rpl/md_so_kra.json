@@ -22,12 +22,12 @@
   "type": 1,
   "level": 1,
   "textQue": "Кто этот футболист?",
-  "slugQue": "so_miladinovich",
-  "comment": "Защитник",
-  "slugCorAns": "so_miladinovich",
-  "txtCorAns": "Иван Миладинович",
-  "wrSlgAns1": "so_sissako",
-  "wrTxtAns1": "Мусса Сиссако",
+  "slugQue": "so_usupov",
+  "comment": "Полузащитник",
+  "slugCorAns": "so_usupov",
+  "txtCorAns": "Артур Юсупов",
+  "wrSlgAns1": "so_noboa",
+  "wrTxtAns1": "Артем Макарчук",
   "wrSlgAns2": "so_drkushich",
   "wrTxtAns2": "Ваня Дркушич",
   "wrSlgAns3": "so_meschaninov",
@@ -228,7 +228,7 @@
   "wrTxtAns5": "Сергей Волков"
  },
  {
-  "type": 2,
+  "type": 1,
   "level": 1,
   "textQue": "Кто является лучшим бомбардиром Сочи в РПЛ на данный момент?",
   "slugQue": "lg_sochi",
@@ -302,25 +302,6 @@
   "wrTxtAns4": "Балтика Калининград",
   "wrSlgAns5": "lg_lokomotiv",
   "wrTxtAns5": "Локомотив М"
- },
- {
-  "type": 1,
-  "level": 1,
-  "textQue": "Кто из этих футболистов играл и за Краснодар, и за Сочи?",
-  "slugQue": "mt_so_kra",
-  "comment": "Краснодар ( 2015 - 2020), Сочи (2023 - 2024)",
-  "slugCorAns": "so_ignatiev",
-  "txtCorAns": "Иван Игнатьев",
-  "wrSlgAns1": "so_zaika",
-  "wrTxtAns1": "Дмитрий Чистяков",
-  "wrSlgAns2": "so_zaika",
-  "wrTxtAns2": "Кирилл Заика",
-  "wrSlgAns3": "so_angban",
-  "wrTxtAns3": "Викторьен Ангбан",
-  "wrSlgAns4": "kr_kadi",
-  "wrTxtAns4": "Кади",
-  "wrSlgAns5": "kr_ektov",
-  "wrTxtAns5": "Александр Эктов"
  },
  {
   "type": 2,
@@ -586,7 +567,7 @@
   "wrSlgAns4": "pic_wrong",
   "wrTxtAns4": "СКА-Хабаровск и Мордовия",
   "wrSlgAns5": "pic_wrong",
-  "wrTxtAns5": "Уфа иТосно"
+  "wrTxtAns5": "Уфа и Тосно"
  },
  {
   "type": 1,
