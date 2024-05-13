@@ -1,7 +1,7 @@
 {
-   "name": "Зенит СПб - ЦСКА",
-   "url": "https://amaranth64.github.io/rpl/md_zen_cska.json",
-   "home": "lg_zenit",
-   "guest": "lg_cska",
+   "name": "Сочи - Краснодар",
+   "url": "https://amaranth64.github.io/rpl/md_so_kra.json",
+   "home": "lg_sochi",
+   "guest": "lg_krasnodar",
    "visible": true
 }
