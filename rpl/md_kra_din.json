@@ -252,7 +252,7 @@
         "textQue": "После матча с какой командой ФК Краснодар объявил об отставке Владимира Илича?",
         "slugQue": "lg_krasnodar",
         "comment": "13 марта 2024 года после поражения на стадии 1/4 финала Кубка России от «Химок» (0:2), «Краснодар» объявил о расторжении контракта с Владимиром Ивичем. На следующий день клуб объявил о назначении Мурада Мусаева на пост главного тренера до конца сезона 2023/24",
-        "slugCorAns": "lg_khimki",
+        "slugCorAns": "khimki",
         "txtCorAns": "Химки",
         "wrSlgAns1": "lg_rubin",
         "wrTxtAns1": "Рубин",
@@ -564,7 +564,7 @@
         "wrTxtAns2": "Урал",
         "wrSlgAns3": "lg_krasnodar",
         "wrTxtAns3": "Краснодар",
-        "wrSlgAns4": "logo_akron_tolyatti",
+        "wrSlgAns4": "akron_tolyatti",
         "wrTxtAns4": "Акрон",
         "wrSlgAns5": "lg_orenburg",
         "wrTxtAns5": "Оренбург"
