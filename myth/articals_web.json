@@ -311,6 +311,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_tristory.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_tristory.webp",
    "description": "Три коротких страшных истории на ночь"
+ },
+ {
+   "id": 141,
+   "category": "Городская легенда",
+   "title": "Одержимая кукла",
+   "url": "https://amaranth64.github.io/myth/html/his_hanttoy.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_hanttoy.webp",
+   "description": "Основано на реальных событиях..."
  }
 ]
 }
