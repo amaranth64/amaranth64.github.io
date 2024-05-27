@@ -1,7 +1,7 @@
 {
-   "name": "Краснодар - Динамо М",
-   "url": "https://amaranth64.github.io/rpl/md_kra_din.json",
-   "home": "lg_krasnodar",
-   "guest": "lg_dinamo",
+   "name": "Чемпионат 23/24",
+   "url": "https://amaranth64.github.io/rpl/md_final.json",
+   "home": "logo_rpl",
+   "guest": "logo_rpl",
    "visible": true
 }
