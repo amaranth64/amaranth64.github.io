@@ -1,1 +1,8 @@
-
+{
+   "name": "Чемпионат 23/24",
+   "url": "https://amaranth64.github.io/rpl/md_final.json",
+   "home": "logo_rpl",
+   "guest": "logo_rpl",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/gamelogo_matchday.webp",
+   "visible": true
+}
