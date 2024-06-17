@@ -327,6 +327,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_sunduk.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_sunduk.webp",
    "description": "Каждое утро, просыпаясь, я открываю сундук, в котором..."
+ },
+ {
+   "id": 143,
+   "category": "Страшная история на ночь",
+   "title": "Молчаливый свидетель",
+   "url": "https://amaranth64.github.io/myth/html/his_treemurder.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_treemurder.webp",
+   "description": "Никто больше не хочет подходить ко мне близко..."
  }
 ]
 }
