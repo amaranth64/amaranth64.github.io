@@ -125,8 +125,8 @@
         "wrTxtAns1": "Пари НН",
         "wrSlgAns2": "akron_tolyatti",
         "wrTxtAns2": "Акрон",
-        "wrSlgAns3": "lg_akhmat",
-        "wrTxtAns3": "Ахмат",
+        "wrSlgAns3": "lg_zenit",
+        "wrTxtAns3": "Зенит СПб",
         "wrSlgAns4": "lg_orenburg",
         "wrTxtAns4": "Оренбург",
         "wrSlgAns5": "lg_fakel",
@@ -184,8 +184,8 @@
         "wrTxtAns2": "Акрон",
         "wrSlgAns3": "khimki",
         "wrTxtAns3": "Химки",
-        "wrSlgAns4": "lg_akhmat",
-        "wrTxtAns4": "Ахмат",
+        "wrSlgAns4": "lg_zenit",
+        "wrTxtAns4": "Зенит СПб",
         "wrSlgAns5": "lg_fakel",
         "wrTxtAns5": "Факел"
     },
@@ -404,8 +404,8 @@
         "textQue": "С какой из этих команд ЦСКА провел последний матч на сборах?",
         "slugQue": "lg_cska",
         "comment": "",
-        "slugCorAns": "lg_akhmat",
-        "txtCorAns": "Ахмат",
+        "slugCorAns": "lg_zenit",
+        "txtCorAns": "Зенит СПб",
         "wrSlgAns1": "khimki",
         "wrTxtAns1": "Химки",
         "wrSlgAns2": "lg_nn",
@@ -433,8 +433,8 @@
         "wrTxtAns3": "Акрон",
         "wrSlgAns4": "lg_orenburg",
         "wrTxtAns4": "Оренбург",
-        "wrSlgAns5": "lg_akhmat",
-        "wrTxtAns5": "Ахмат"
+        "wrSlgAns5": "lg_zenit",
+        "wrTxtAns5": "Зенит СПб"
     },
     {
         "type": 1,
