@@ -1,7 +1,7 @@
 {
-   "name": "Итоги чемпионата 23/24",
-   "url": "https://amaranth64.github.io/rpl/md_final.json",
-   "home": "logo_rpl",
-   "guest": "logo_rpl",
+   "name": "Ростов - ЦСКА",
+   "url": "https://amaranth64.github.io/rpl/mt_rostov_cska.json",
+   "home": "lg_rostov",
+   "guest": "lg_cska",
    "visible": true
 }
