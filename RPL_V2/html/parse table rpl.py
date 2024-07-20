@@ -94,31 +94,32 @@ def remove_div_by_class(html_file_path, class_name):
 parse('tableRPL.html', '13/', 'competition_table')
 parse('tableFNL.html', '687/', 'competition_table')
 parse('cupRussia.html', '786/', 'page_main_content', clas=True)
-parse('calendarRPL.html', '13/shedule/', 'result_data')
+#parse('calendarRPL.html', '13/shedule/', 'result_data')
 #parse('Статистика ФНЛ.html', '687/players/', 'mrgt5', clas=True)
 
-# with open('calendarRPL.html', 'w') as outfile:
-#     parse('itogRPL.html', '13/results/', 'result_data')
-#     with open('itogRPL.html') as infile:
-#         outfile.write(infile.read())
-#
-#     parse('itogRPL.html', '13/shedule/', 'result_data')
-#     with open('itogRPL.html') as infile:
-#         outfile.write(infile.read())
+with open('calendarRPL.html', 'w') as outfile:
+    parse('itogRPL.html', '13/results/', 'result_data')
+    with open('itogRPL.html') as infile:
+        outfile.write(infile.read())
+
+    parse('itogRPL.html', '13/shedule/', 'result_data')
+    with open('itogRPL.html') as infile:
+        outfile.write(infile.read())
 
 delete_a('tableRPL.html')
 delete_a('tableFNL.html')
 delete_a('cupRussia.html')
+delete_a('calendarRPL.html')
 #delete_a('Статистика ФНЛ.html')
 
 remove_div_by_class('calendarRPL.html', 'icons')
 remove_div_by_class('cupRussia.html', 'icons')
 #remove_div_by_class('Статистика ФНЛ.html', 'pager')
 
-# with open('calendarRPL.html', 'r', encoding='utf-8') as outfile:
-#     d = outfile.read()
-#     d = d.replace('Календарь РПЛ', 'Результаты', 1)
-#
-#
-# with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
-#     outfile.write(d)
+with open('calendarRPL.html', 'r', encoding='utf-8') as outfile:
+    d = outfile.read()
+    d = d.replace('Календарь РПЛ', 'Результаты', 1)
+
+
+with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
+    outfile.write(d)
