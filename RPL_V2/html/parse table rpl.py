@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 def parse(file, url, tag, clas=False):
     # URL сайта
     url = f"https://soccer365.ru/competitions/{url}"
@@ -94,13 +95,13 @@ parse('tableRPL.html', '13/', 'competition_table')
 parse('tableFNL.html', '687/', 'competition_table')
 parse('cupRussia.html', '786/', 'page_main_content', clas=True)
 parse('calendarRPL.html', '13/shedule/', 'result_data')
-parse('Статистика ФНЛ.html', '687/players/', 'mrgt5', clas=True)
+#parse('Статистика ФНЛ.html', '687/players/', 'mrgt5', clas=True)
 
 delete_a('tableRPL.html')
 delete_a('tableFNL.html')
 delete_a('cupRussia.html')
-delete_a('Статистика ФНЛ.html')
+#delete_a('Статистика ФНЛ.html')
 
 remove_div_by_class('calendarRPL.html', 'icons')
 remove_div_by_class('cupRussia.html', 'icons')
-remove_div_by_class('Статистика ФНЛ.html', 'pager')
+#remove_div_by_class('Статистика ФНЛ.html', 'pager')
