@@ -97,13 +97,13 @@ parse('cupRussia.html', '786/', 'page_main_content', clas=True)
 #parse('calendarRPL.html', '13/shedule/', 'result_data')
 #parse('Статистика ФНЛ.html', '687/players/', 'mrgt5', clas=True)
 
-with open('calendarRPL.html', 'w') as outfile:
+with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
     parse('itogRPL.html', '13/results/', 'result_data')
-    with open('itogRPL.html') as infile:
+    with open('itogRPL.html', 'r', encoding='utf-8', errors='ignore') as infile:
         outfile.write(infile.read())
 
     parse('itogRPL.html', '13/shedule/', 'result_data')
-    with open('itogRPL.html') as infile:
+    with open('itogRPL.html', 'r', encoding='utf-8', errors='ignore') as infile:
         outfile.write(infile.read())
 
 delete_a('tableRPL.html')
@@ -123,3 +123,13 @@ with open('calendarRPL.html', 'r', encoding='utf-8') as outfile:
 
 with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
     outfile.write(d)
+
+with open('calendarRPL.html', 'r', encoding='utf-8') as file:
+    soup = BeautifulSoup(file, 'html.parser')
+    for div in soup.find_all('head')[1:]:
+        div.decompose()
+    for div in soup.find_all('span', class_='arrow')[1:]:
+        div.decompose()
+
+with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
+    outfile.write(str(soup))
