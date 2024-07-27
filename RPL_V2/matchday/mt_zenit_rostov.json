@@ -266,9 +266,9 @@
         "wrTxtAns5": "Локомотив"
     },
     {
-        "type": 5,
+        "type": 2,
         "textQue": "Какой из этих клубов не потерял ни одного очка в этом сезоне РПЛ?",
-        "slugQue": "no_pic",
+        "slugQue": "logo_rpl",
         "comment": "",
         "slugDlg": "logo_zenit",
         "slugCorAns": "logo_zenit",
@@ -481,7 +481,7 @@
         "comment": "Бразильский защитник_Перешёл в Зенит летом 2019 года из Гамбурга",
         "slugDlg": "zs_santos",
         "slugCorAns": "zs_santos",
-        "txtCorAns": " Дуглас Сантос",
+        "txtCorAns": "Дуглас Сантос",
         "wrSlgAns1": "zs_kerzhakov",
         "wrTxtAns1": "Михаил Кержаков",
         "wrSlgAns2": "zs_erokhin",
@@ -608,9 +608,9 @@
         "wrTxtAns5": "Даниил Уткин"
     },
     {
-        "type": 5,
+        "type": 2,
         "textQue": "Какой клуб добирался до серебряных медалей чемпионата России, но больше ни разу не попадал в топ-3?",
-        "slugQue": "no_pic",
+        "slugQue": "logo_rpl",
         "comment": "Максимум Ростова - 2 место в сезоне 2015/16",
         "slugDlg": "logo_rostov",
         "slugCorAns": "logo_rostov",
@@ -627,9 +627,9 @@
         "wrTxtAns5": "Локомотив"
     },
     {
-        "type": 5,
+        "type": 2,
         "textQue": "Какой клуб - рекордсмен РПЛ по пропущенным голам за матч?",
-        "slugQue": "no_pic",
+        "slugQue": "logo_rpl",
         "comment": "19.06.2020 Сочи 10:1 Ростов",
         "slugDlg": "logo_rostov",
         "slugCorAns": "logo_rostov",
@@ -646,9 +646,9 @@
         "wrTxtAns5": "Локомотив"
     },
     {
-        "type": 5,
+        "type": 2,
         "textQue": "Какой клуб РПЛ тренерует его бывший игрок?",
-        "slugQue": "no_pic",
+        "slugQue": "logo_rpl",
         "comment": "Сергей Семак играл за Зенит 3 сезона(2010-2013), а с 2018 года тренирует их",
         "slugDlg": "logo_zenit",
         "slugCorAns": "logo_zenit",
