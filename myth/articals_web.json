@@ -343,6 +343,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_goodthing.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_goodthing.webp",
    "description": "Их было четверо. Каждый сидел в своем кресле лицом к тускло освещенному камину..."
+ },
+ {
+   "id": 145,
+   "category": "Страшно и смешно",
+   "title": "Именинница",
+   "url": "https://amaranth64.github.io/myth/html/his_birthday17.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_birthday17.webp",
+   "description": "Сюрприз!...С днем рождения, Линда!"
  }
 ]
 }
