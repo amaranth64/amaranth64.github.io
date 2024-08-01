@@ -2,9 +2,9 @@
     {
         "type": 1,
         "textQue": "Кто этот футболист?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_rostov.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_rostov_cska.png",
         "comment": "Нападающий",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_rostov.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/mt_rostov_cska.png",
         "slugCorAns": "no_pic",
         "txtCorAns": "Константин Тюкавин",
         "wrSlgAns1": "no_pic",
