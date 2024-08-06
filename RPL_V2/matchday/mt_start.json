@@ -1,8 +1,8 @@
 {
-   "name": "Зенит - Ростов",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_rostov.json",
+   "name": "Зенит - Динамо Москва",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_dinamo.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_rostov.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_dinmos.jpg",
    "visible": true
 }
