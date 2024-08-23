@@ -1,8 +1,8 @@
 {
-   "name": "Зенит - Динамо Москва",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_dinamo.json",
+   "name": "Зенит СПб- Спартак Москва",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_spartak.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_dinmos.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_spartak.jpg",
    "visible": true
 }
