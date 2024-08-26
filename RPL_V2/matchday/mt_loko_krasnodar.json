@@ -304,9 +304,9 @@
         "wrTxtAns5": "Дмитрий Баринов"
     },
     {
-        "type": 2,
+        "type": 4,
         "textQue": "На каком месте находится Краснодар после шести туров?",
-        "slugQue": "logo_krasnodar",
+        "slugQue": "no_pic",
         "comment": "",
         "slugDlg": "num_3",
         "slugCorAns": "num_3",
@@ -323,9 +323,9 @@
         "wrTxtAns5": "7 место"
     },
     {
-        "type": 2,
+        "type": 4,
         "textQue": "На каком месте находится Локомотив после шести туров?",
-        "slugQue": "logo_lokomotiv",
+        "slugQue": "no_pic",
         "comment": "",
         "slugDlg": "num_1",
         "slugCorAns": "num_1",
@@ -382,7 +382,7 @@
     {
         "type": 2,
         "textQue": "Кто из этих футболистов играл и за Краснодар, и за Локомотив?",
-        "slugQue": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_krasnodar.jpg",
         "comment": "",
         "slugDlg": "kr_smolov",
         "slugCorAns": "kr_smolov",
@@ -401,9 +401,9 @@
     {
         "type": 1,
         "textQue": "Кто из этих футболистов играл и за Краснодар, и за Локомотив?",
-        "slugQue": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_krasnodar.jpg",
         "comment": "",
-        "slugDlg": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/kr_ari.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Ари",
         "wrSlgAns1": "no_pic",
@@ -420,9 +420,9 @@
     {
         "type": 1,
         "textQue": "Кто из этих футболистов играл и за Краснодар, и за Локомотив?",
-        "slugQue": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_krasnodar.jpg",
         "comment": "",
-        "slugDlg": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/loko_manuel.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Мануэль Фернандеш",
         "wrSlgAns1": "no_pic",
@@ -572,9 +572,9 @@
     {
         "type": 1,
         "textQue": "С каким счётом завершилась последняя встреча Локомотива и Краснодара?",
-        "slugQue": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_krasnodar.jpg",
         "comment": "",
-        "slugDlg": "https://github.com/amaranth64/amaranth64.github.io/blob/main/RPL_V2/matchday/mt_dinamo_loko.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_krasnodar.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Локомотив 1:1 Краснодар",
         "wrSlgAns1": "no_pic",
