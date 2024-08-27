@@ -254,7 +254,7 @@
         "slugDlg": "logo_rostov",
         "slugCorAns": "logo_rostov",
         "txtCorAns": "Ростов",
-        "wrSlgAns1": "logo_akmat",
+        "wrSlgAns1": "logo_akhmat",
         "wrTxtAns1": "Ахмат",
         "wrSlgAns2": "logo_fakel",
         "wrTxtAns2": "Факел",
@@ -380,9 +380,9 @@
         "wrTxtAns5": "Химки"
     },
     {
-        "type": 2,
+        "type": 5,
         "textQue": "Кто из этих футболистов играл и за Краснодар, и за Локомотив?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_krasnodar.jpg",
+        "slugQue": "no_pic",
         "comment": "Краснодар (2015 - 2019, 2024 - н.в.), Локомотив (2018 - 2022)",
         "slugDlg": "kr_smolov",
         "slugCorAns": "kr_smolov",
