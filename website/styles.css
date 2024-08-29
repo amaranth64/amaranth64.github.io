@@ -103,6 +103,73 @@ li_navbar h2 {
 }
 /* ВЕРХНЕЕ МЕНЮ */
 
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400italic);
+
+body{
+  font-family: 'Lato', sans-serif;
+  position:relative;
+}
+.header-photo{
+  width:100%;
+  height: 100%;
+  position: relative;
+  text-align: center;
+  background:url("https://d262ilb51hltx0.cloudfront.net/max/1600/1*tUIJ2H14wOUGbMmrIUhn_Q.jpeg");
+  background-size: cover;
+  background-position: 50% 0%;
+}
+.header-photo:after{
+  content:'';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  background-color: rgba(21,21,21,.6);
+}
+.container-text{
+  max-width: 80%;
+  width: 960px;
+  margin: 0 auto;
+  line-height: 1.5;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 60px;
+ }
+.article{
+  position: absolute;
+  bottom: 120px;
+  z-index:2;
+  color: white;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.title{
+  font-size: 80px;
+  font-weight: 700;
+  position:relative;
+  color: white;
+}
+.subtitle{
+  font-weight: 300;
+  font-size: 22px;
+  padding-top: 10px;
+  color: rgba(255,255,255,.6);
+}
+.intro{
+  font-style: italic;
+  font-weight: 400;
+  font-size:22px;
+  font-family: 'Noto Serif', serif;
+}
+.plain-text{
+  padding: 0px 70px;
+  text-align: left;
+  font-weight: 300;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
