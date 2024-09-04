@@ -422,8 +422,8 @@
         "textQue": "Кого обыграл Зенит в прошлом туре?",
         "slugQue": "logo_zenit",
         "comment": "Пари НН 0:3 Зенит (Гонду 30', Гонду 56', Вендел 69')",
-        "slugDlg": "logo_nn",
-        "slugCorAns": "logo_nn",
+        "slugDlg": "logo_pari",
+        "slugCorAns": "logo_pari",
         "txtCorAns": "Пари НН",
         "wrSlgAns1": "logo_khimki",
         "wrTxtAns1": "Химки",
@@ -437,10 +437,10 @@
         "wrTxtAns5": "Акрон"
     },
     {
-        "type": 2,
+        "type": 4,
         "textQue": "На каком месте находится ЦСКА после шести туров?",
-        "slugQue": "logo_cska",
-        "comment": "17 очков. Разница голов 18:1",
+        "slugQue": "no_pic",
+        "comment": "13 очков. Разница голов 15:4",
         "slugDlg": "num_5",
         "slugCorAns": "num_5",
         "txtCorAns": "5 место",
@@ -456,10 +456,10 @@
         "wrTxtAns5": "8 место"
     },
     {
-        "type": 2,
+        "type": 4,
         "textQue": "На каком месте находится Зенит после шести туров?",
-        "slugQue": "logo_zenit",
-        "comment": "13 очков. Разница голов 15:4",
+        "slugQue": "no_pic",
+        "comment": "17 очков. Разница голов 18:1",
         "slugDlg": "num_1",
         "slugCorAns": "num_1",
         "txtCorAns": "1 место",
