@@ -1,6 +1,6 @@
 [
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_sobolev.jpg",
         "comment": "27-летний (07.03.1997) российский нападающий. Перешёл в Зенит в августе 2024 из Спартака",
@@ -19,7 +19,7 @@
         "wrTxtAns5": "Александр Ерохин"
     },
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_strahiny.jpg",
         "comment": "23-летний (22.01.2001) сербский защитник. Перешёл в Зенит летом 2023 из Црвены Звезды",
@@ -38,7 +38,7 @@
         "wrTxtAns5": "Ильзат Ахметов"
     },
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_gondu.jpg",
         "comment": "23-летний (22.06.2001) аргентинский нападающий. Перешёл в Зенит в августе 2024 из Аргентинос Хуниорс",
@@ -57,7 +57,7 @@
         "wrTxtAns5": "Вендел"
     },
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "cska_krugovoj",
         "comment": "Защитник",
@@ -76,7 +76,7 @@
         "wrTxtAns5": "Милан Гайич"
     },
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "cska_koita",
         "comment": "24-летний (28.11.1999) малийский нападающий. Перешёл в ЦСКА летом 2024 из австрийского Зальцбурга",
@@ -95,7 +95,7 @@
         "wrTxtAns5": "Виктор Давила"
     },
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/cska_musaev.jpg",
         "comment": "23-летний (29.07.2001) российский нападающий. Перешёл в ЦСКА зимой 2024 из Балтики",
@@ -114,7 +114,7 @@
         "wrTxtAns5": "Николай Баровский"
     },
     {
-        "type": 6,
+        "type": 1,
         "textQue": "Кто этот футболист?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/cska_faizulaev.jpg",
         "comment": "20-летний (03.10.2003) узбекский нападающий. Перешёл в ЦСКА летом 2023 из Пахтакора",
