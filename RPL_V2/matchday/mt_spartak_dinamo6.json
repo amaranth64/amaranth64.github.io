@@ -494,6 +494,25 @@
         "wrTxtAns5": "На 1 месте"
     },
     {
+        "type": 6,
+        "textQue": "Правда ли, что игрок Спартака Кристофер Мартинс в сентябре был вызван в сборную своей страны и отыграл оба матча без замен?",
+        "slugQue": "sm_martins",
+        "comment": "",
+        "slugDlg": "sm_martins",
+        "slugCorAns": "no_pic",
+        "txtCorAns": "Да",
+        "wrSlgAns1": "no_pic",
+        "wrTxtAns1": "Нет",
+        "wrSlgAns2": "no_pic",
+        "wrTxtAns2": "Нет",
+        "wrSlgAns3": "no_pic",
+        "wrTxtAns3": "Нет",
+        "wrSlgAns4": "no_pic",
+        "wrTxtAns4": "Нет",
+        "wrSlgAns5": "no_pic",
+        "wrTxtAns5": "Нет"
+    },
+    {
         "type": 1,
         "textQue": "За какую сборную выступает игрок Спартака Манфред Угальде?",
         "slugQue": "sm_ugalde",
@@ -606,6 +625,25 @@
         "wrTxtAns4": "Луис Чавес",
         "wrSlgAns5": "dm_bitello",
         "wrTxtAns5": "Бителло"
+    },
+    {
+        "type": 6,
+        "textQue": "Победой какой команды завершился последний матч между Спартаком и Динамо?",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_dinamo.jpg",
+        "comment": "",
+        "slugDlg": "logo_spartak",
+        "slugCorAns": "no_pic",
+        "txtCorAns": "Спартак Москва",
+        "wrSlgAns1": "no_pic",
+        "wrTxtAns1": "Динамо Москва",
+        "wrSlgAns2": "no_pic",
+        "wrTxtAns2": "Динамо Москва",
+        "wrSlgAns3": "no_pic",
+        "wrTxtAns3": "Динамо Москва",
+        "wrSlgAns4": "no_pic",
+        "wrTxtAns4": "Динамо Москва",
+        "wrSlgAns5": "no_pic",
+        "wrTxtAns5": "Динамо Москва"
     },
     {
         "type": 1,
