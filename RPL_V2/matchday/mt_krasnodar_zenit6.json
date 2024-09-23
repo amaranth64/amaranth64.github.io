@@ -363,7 +363,7 @@
     {
         "type": 2,
         "textQue": "Кто из этих игроков играл и за Зенит, и за Краснодар?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_zenit.jpg",
+        "slugQue": "no_pic",
         "comment": "Краснодар(2022 - 2024), Зенит (2024 - н.в)",
         "slugDlg": "zs_akhmetov",
         "slugCorAns": "zs_akhmetov",
@@ -422,7 +422,7 @@
         "textQue": "Кто является лучшим бомбардиром Краснодара в этом сезоне РПЛ?",
         "slugQue": "logo_krasnodar",
         "comment": "5 голов в 9 матчах",
-        "slugDlg": "kr_mozes",
+        "slugDlg": "kr_spertsjan",
         "slugCorAns": "kr_spertsjan",
         "txtCorAns": "Эдуард Сперцян",
         "wrSlgAns1": "kr_mozes",
@@ -471,7 +471,7 @@
         "wrTxtAns3": "Рубин",
         "wrSlgAns4": "logo_cska",
         "wrTxtAns4": "ЦСКА",
-        "wrSlgAns5": "logo_akmat",
+        "wrSlgAns5": "logo_akhmat",
         "wrTxtAns5": "Ахмат"
     },
     {
@@ -484,7 +484,7 @@
         "txtCorAns": "Оренбург",
         "wrSlgAns1": "logo_khimki",
         "wrTxtAns1": "Химки",
-        "wrSlgAns2": "logo_akmat",
+        "wrSlgAns2": "logo_akhmat",
         "wrTxtAns2": "Ахмат",
         "wrSlgAns3": "logo_rostov",
         "wrTxtAns3": "Ростов",
@@ -666,7 +666,7 @@
     },
     {
         "type": 6,
-        "textQue": "Правда ли, что Игорь Смольников играл за обе эти команды?",
+        "textQue": "Правда ли, что Игорь Смольников играл и за Зенит, и за Краснодар?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_smolnikov.jpg",
         "comment": "Краснодар(2012 - 2013, 2020 - 2021), Зенит (2013 - 2020)",
         "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_smolnikov.jpg",
