@@ -1,8 +1,8 @@
 {
-   "name": "Краснодар - Зенит",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_krasnodar_zenit6.json",
+   "name": "Динамо Москва - ЦСКА",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_dinamo_cska6.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_zenit.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_dinamo_cska.jpg",
    "visible": true
 }
