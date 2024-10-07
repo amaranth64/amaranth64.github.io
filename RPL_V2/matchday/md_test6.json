@@ -1,8 +1,8 @@
 {
-   "name": "Динамо Москва - ЦСКА",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_dinamo_cska6.json",
+   "name": "Cпартак Москва - Краснодар",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_spartak_krasnodar6.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_dinamo_cska.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar.jpg",
    "visible": true
 }
