@@ -186,7 +186,7 @@
         "wrTxtAns3": "ЦСКА",
         "wrSlgAns4": "logo_zenit",
         "wrTxtAns4": "Зенит",
-        "wrSlgAns5": "logog_fakel",
+        "wrSlgAns5": "logo_fakel",
         "wrTxtAns5": "Факел"
     },
     {
@@ -457,7 +457,7 @@
     },
     {
         "type": 1,
-        "textQue": "С каким счетом завершилась для Спартака встреча Ростовым в прошлом туре?",
+        "textQue": "С каким счетом завершилась для Спартака встреча Ростовом в прошлом туре?",
         "slugQue": "logo_spartak",
         "comment": "Спартак 3:0 Ростов (Н. Умяров 29', Ш. Николсон 34', 45+4')",
         "slugDlg": "logo_spartak",
