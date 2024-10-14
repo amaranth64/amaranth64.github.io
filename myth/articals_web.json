@@ -351,6 +351,14 @@
    "url": "https://amaranth64.github.io/myth/html/his_birthday17.html",
    "picURL": "https://amaranth64.github.io/myth/images/his_birthday17.webp",
    "description": "Сюрприз!...С днем рождения, Линда!"
+ },
+ {
+   "id": 146,
+   "category": "Страшно и смешно",
+   "title": "Баг в системе",
+   "url": "https://amaranth64.github.io/myth/html/his_bugmonitor.html",
+   "picURL": "https://amaranth64.github.io/myth/images/his_bugmonitor.webp",
+   "description": "Реальная история, рассказанная на Reddit"
  }
 ]
 }
