@@ -517,7 +517,7 @@
         "textQue": "Кто является лучшим бомбардиром в истории этого дерби?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_cska_quest.jpg",
         "comment": "Лучший бомбардир в истории дерби — армеец Вагнер Лав, забивший 9 голов. У Спартака 7 мячей забил Сергей Сальников.",
-        "slugDlg": "logo_cska",
+        "slugDlg": "cska_vagnerlove",
         "slugCorAns": "no_pic",
         "txtCorAns": "Вагнер Лав",
         "wrSlgAns1": "no_pic",
