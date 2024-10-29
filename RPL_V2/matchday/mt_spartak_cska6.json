@@ -608,7 +608,7 @@
         "wrTxtAns5": "Андрей Дикань"
     },
     {
-        "type": 2,
+        "type": 1,
         "textQue": "Кто из этих действующих игроков Спартака играл за ЦСКА?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_cska_quest.jpg",
         "comment": "",
