@@ -1,8 +1,8 @@
 {
-   "name": "ЦСКА - Спартак",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_spartak_cska6.json",
+   "name": "Рубин - Краснодар",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_rubin_krasnodar6.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_cska.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_rubin_krasnodar.jpg",
    "visible": true
 }
