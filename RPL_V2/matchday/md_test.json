@@ -1,8 +1,8 @@
 {
-   "name": "Рубин - Краснодар",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_rubin_krasnodar.json",
+   "name": "Итоги первого круга РПЛ 24/25",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_itogi.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_rubin_krasnodar.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_itogi.jpg",
    "visible": true
 }
