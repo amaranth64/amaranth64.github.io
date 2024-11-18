@@ -1,0 +1,26 @@
+[
+ {
+   "title": "Вампиры и оборотни",
+   "slug": "wolf_and_vampire",
+   "picURL": "pic2",
+   "description": "Викторина о вампирах и оборотнях"
+ },
+ {
+   "title": "Мифы славян",
+   "slug": "slavic_myth",
+   "picURL": "pic3",
+   "description": "Домовые, болотники, кикиморы и многие другие"
+ },
+ {
+   "title": "Мифы Британии",
+   "slug": "britan_myth",
+   "picURL": "pic4",
+   "description": "Существа из мира Гарри Поттера и не только"
+ },
+ {
+   "title": "Городские легенды",
+   "slug": "city_legend",
+   "picURL": "pic5",
+   "description": "Страшные истории - вымысел или правда?"
+ }
+]
