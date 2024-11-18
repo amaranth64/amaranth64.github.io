@@ -99,7 +99,7 @@
         "textQue": "Кто этот футболист?",
         "slugQue": "sm_barko",
         "comment": "25-летний (29.03.1999) аргентинский полузащитник. Перешёл в Спартак летом 2024 из Ривер Плейта",
-        "slugDlg": "",
+        "slugDlg": "sm_barko",
         "slugCorAns": "no_pic",
         "txtCorAns": "Эсекиэль Барко",
         "wrSlgAns1": "no_pic",
@@ -489,9 +489,9 @@
         "wrSlgAns3": "no_pic",
         "wrTxtAns3": "Жано Ананидзе",
         "wrSlgAns4": "no_pic",
-        "wrTxtAns4": "",
+        "wrTxtAns4": "Игорь Денисов",
         "wrSlgAns5": "no_pic",
-        "wrTxtAns5": ""
+        "wrTxtAns5": "Гилерме"
     },
     {
         "type": 1,
@@ -506,11 +506,11 @@
         "wrSlgAns2": "no_pic",
         "wrTxtAns2": "Лоренцо Мельгарехо",
         "wrSlgAns3": "no_pic",
-        "wrTxtAns3": "",
+        "wrTxtAns3": "Игорь Денисов",
         "wrSlgAns4": "no_pic",
-        "wrTxtAns4": "",
+        "wrTxtAns4": "Джефферсон Фарфан",
         "wrSlgAns5": "no_pic",
-        "wrTxtAns5": ""
+        "wrTxtAns5": "Жано Ананидзе"
     },
     {
         "type": 1,
