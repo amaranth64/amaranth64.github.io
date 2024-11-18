@@ -1,8 +1,8 @@
 {
-   "name": "Итоги первого круга РПЛ 24/25",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_itogi6.json",
+   "name": "Спартак - Локомотив",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_spartak_lokomotiv6.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_itogi.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_lokomotiv.jpg",
    "visible": true
 }

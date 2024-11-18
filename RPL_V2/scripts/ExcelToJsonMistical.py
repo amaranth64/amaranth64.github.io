@@ -18,6 +18,8 @@ def ExcelToJson(xl):
                                 data[i]['wrAns'].append(u)
                             else:
                                 data[i]['wrAns'] = [u]
+                    elif 'comment' in y:
+                        data[i][y] = ''
             with open(x + ".json", 'w', encoding='utf-8') as w:
                 json.dump(data, w, ensure_ascii=False, indent=4)
         except Exception as e:
