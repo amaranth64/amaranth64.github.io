@@ -1,25 +1,25 @@
 [
  {
    "title": "Вампиры и оборотни",
-   "slug": "wolf_and_vampire",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
    "picURL": "pic2",
    "description": "Викторина о вампирах и оборотнях"
  },
  {
    "title": "Мифы славян",
-   "slug": "slavic_myth",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/slavic_myth.json",
    "picURL": "pic3",
    "description": "Домовые, болотники, кикиморы и многие другие"
  },
  {
    "title": "Мифы Британии",
-   "slug": "britan_myth",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/britan_myth.json",
    "picURL": "pic4",
    "description": "Существа из мира Гарри Поттера и не только"
  },
  {
    "title": "Городские легенды",
-   "slug": "city_legend",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/city_legend.json",
    "picURL": "pic5",
    "description": "Страшные истории - вымысел или правда?"
  }
