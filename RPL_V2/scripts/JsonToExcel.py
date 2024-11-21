@@ -2,8 +2,10 @@ import os
 import json
 import openpyxl
 
+
 # Получаем текущую директорию
 current_dir = os.getcwd()
+
 
 # Проходим по всем файлам в директории
 for filename in os.listdir(current_dir):
