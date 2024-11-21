@@ -6,6 +6,12 @@
    "description": "Викторина о вампирах и оборотнях"
  },
  {
+   "title": "Мистические загадки",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/riddle.json",
+   "picURL": "pic3",
+   "description": "Попробуй отгадать о ком речь!"
+ },
+ {
    "title": "Мифы славян",
    "slug": "https://amaranth64.github.io/myth/quiz/questions/slavic_myth.json",
    "picURL": "pic3",
