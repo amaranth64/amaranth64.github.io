@@ -1,9 +1,21 @@
 [
- {
-   "title": "Вампиры и оборотни",
+   {
+   "title": "Оборотни",
    "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
    "picURL": "vampir.webp",
-   "description": "Викторина о вампирах и оборотнях"
+   "description": "Викторина об оборотнях"
+ },
+ {
+   "title": "Вампиры",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
+   "picURL": "vampir.webp",
+   "description": "Викторина о вампирах"
+ },
+   {
+   "title": "Вампиры в кино",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
+   "picURL": "vampir.webp",
+   "description": "Викторина о вампирах в кино"
  },
  {
    "title": "Мистические загадки",
