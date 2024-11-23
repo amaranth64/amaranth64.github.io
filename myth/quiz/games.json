@@ -30,10 +30,10 @@
    "description": "Домовые, болотники, кикиморы и многие другие"
  },
  {
-   "title": "Мифы Британии",
-   "slug": "https://amaranth64.github.io/myth/quiz/questions/britan_myth.json",
-   "picURL": "pic4",
-   "description": "Существа из мира Гарри Поттера и не только"
+   "title": "Вселенная Гарри Поттера",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/garry_potter.json",
+   "picURL": "garry_potter.webp",
+   "description": "Существа из магического мира Гарри Поттера"
  },
  {
    "title": "Городские легенды",

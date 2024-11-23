@@ -26,6 +26,6 @@ def ExcelToJson(xl):
             pass
 
 
-name = 'riddle'
+name = 'garry_potter'
 xl = pd.ExcelFile(name + '.xlsx')
 ExcelToJson(xl)
