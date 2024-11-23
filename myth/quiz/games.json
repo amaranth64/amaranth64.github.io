@@ -40,5 +40,11 @@
    "slug": "https://amaranth64.github.io/myth/quiz/questions/city_legend.json",
    "picURL": "pic5",
    "description": "Страшные истории - вымысел или правда?"
+ },
+ {
+   "title": "Мифы Древней Греции",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/ancient_greece.json",
+   "picURL": "ancient_greece.webp",
+   "description": "Страшные истории - вымысел или правда?"
  }
 ]
