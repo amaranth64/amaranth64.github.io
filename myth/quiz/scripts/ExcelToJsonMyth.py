@@ -10,7 +10,7 @@ def ExcelToJson(xl):
             data = [{} for _ in range(df1.count()['textQue'])]
             for y in df1.keys():
                 for i, u in enumerate(df1.get(y)):
-                    if not pd.isna(str(u)):
+                    if not pd.isna(u):
                         if 'wrAns' not in y:
                             data[i][y] = str(u).strip()
                         else:
