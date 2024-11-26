@@ -192,7 +192,7 @@
     {
         "type": 1,
         "textQue": "Кто из этих игроков играл и за Спартак, и за Краснодар?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "comment": "",
         "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/sm_samedov.jpg",
         "slugCorAns": "no_pic",
@@ -211,7 +211,7 @@
     {
         "type": 1,
         "textQue": "Кто из этих игроков играл и за Краснодар, и за Спартак?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spa_kras_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "comment": "Спартак (2005 - 2009), Краснодар (2014 - 2017)",
         "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/lg_bystrov.jpg",
         "slugCorAns": "no_pic",
@@ -230,7 +230,7 @@
     {
         "type": 1,
         "textQue": "Кто из этих игроков играл и за Спартак, и за Краснодар?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spa_kras_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "comment": "Спартак (2002 - 2007), Краснодар (2015 - 2017)",
         "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/lg_torbinski.jpg",
         "slugCorAns": "no_pic",
@@ -401,9 +401,9 @@
     {
         "type": 1,
         "textQue": "Как завершился последний матч между Спартаком и Краснодаром?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "comment": "РПЛ 24/25. Тур 12. Спартак 0:3 Краснодар (К. Ленини 8', Виктор Са 45', Х. Медина (аг) 90+6')",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_krasnodar_quest.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Спартак 0:3 Краснодар",
         "wrSlgAns1": "no_pic",
@@ -477,9 +477,9 @@
     {
         "type": 1,
         "textQue": "Какой крупнейший счёт был в истории этого противостояния?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spa_kras_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "comment": "РПЛ 20/21. 21-й тур. Спартак 6:1 Краснодар (А. Соболев 1', 61'; К. Промес 8', Дж. Ларссон 63', 83'; Э. Понсе 75' - Ю. Газинский 56')",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spa_kras_quest.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Спартак 6:1 Краснодар",
         "wrSlgAns1": "no_pic",
@@ -496,9 +496,9 @@
     {
         "type": 1,
         "textQue": "Когда состоялся первый матч между Спартаком и Краснодаром?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spa_kras_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "comment": "15.07.2009. Кубок России 1/16. Краснодар 1:2 Спартак",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spa_kras_quest.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak_quest.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "15 июля 2009 года",
         "wrSlgAns1": "no_pic",
