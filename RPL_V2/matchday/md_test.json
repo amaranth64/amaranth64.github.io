@@ -1,8 +1,8 @@
 {
-   "name": "Спартак - Локомотив",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_spartak_lokomotiv.json",
+   "name": "Краснодар - Спартак",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_krasnodar_spartak.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_lokomotiv.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_spartak.jpg",
    "visible": true
 }
