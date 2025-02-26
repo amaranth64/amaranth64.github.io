@@ -1,8 +1,8 @@
 {
-   "name": "Краснодар - Локомотив",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_krasnodar_lokomotiv6.json",
+   "name": "Зенит - ЦСКА",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_cska_zenit.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_krasnodar_lokomotiv.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_cska_zenit.jpg",
    "visible": true
 }
