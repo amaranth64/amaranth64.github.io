@@ -1,0 +1,29 @@
+- sm_nikolson
+- sm_selihov
+- sm_sobolev
+- sm_zhoze
+
+
+sm_abena
+sm_babich
+sm_barko
+sm_bongonda
+sm_duarte
+sm_hlusevich
+sm_maksimenko
+sm_markinios
+sm_martins
+sm_medina
+sm_rjabchuk
+sm_stankovich
+sm_ugalde
+sm_umjarov
+sm_zinkovskij
+sm_zobnin
+
+
+Илья Помазун - sm_pomazun
+Рикарду Мангаш - sm_mangash
+Пабло Солари - sm_solari
+Данил Пруцев - sm_pruziv
+Ливай Гарсия - sm_garsia

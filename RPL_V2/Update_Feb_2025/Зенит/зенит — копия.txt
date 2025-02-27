@@ -1,0 +1,33 @@
+- zs_artur
+- zs_klaudino
+- zs_sergeev
+- zs_gondu
+- zs_fernandez
+- tran_fernandez
+- zs_hulk
+
+zs_semak
+zs_barrios
+zs_erokhin
+zs_glushenkov
+zs_kasserra
+zs_kerzhakov
+zs_mantuan
+zs_mostovoj
+zs_nino
+zs_pedro
+zs_rodrigao
+zs_santos
+zs_vendel
+zs_gorshkov
+zs_sobolev
+zs_karavaev
+zs_erakovich
+zs_latyshonok Евгений Латышонок - его нет в вопросах
+zs_akhmetov
+
++ Дмитрий Чистяков - zs_chistikov
++ Ваня Дркушич - zs_drkushich
++ Нуралы Алип - zs_alip
++ Луис Энрике - zs_luisenrike
++ Ду Кейрос - zs_dukeiros

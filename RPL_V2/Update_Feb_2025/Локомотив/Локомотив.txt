@@ -1,0 +1,30 @@
+- lm_mitaj
+
+
+lm_mitrjushkin
+lm_lantratov
+lm_fasson
+lm_njamsi
+lm_siljanov
+lm_samoshnikov
+lm_barinov
+lm_tiknizjan
+lm_batrakov
+lm_karpukas
+lm_sarveli
+lm_pinjaev
+lm_vorobev
+lm_sulejmanov
+
+
+
+Сесар Монтес - lm_montes
+Максим Ненахов - lm_nenahov
+Егор Погостнов - lm_pogostnov
+Евгений Морозов - lm_morozov
+Эдгар Севикян - lm_sevikian
+Никита Салтыков - lm_saltikov
+Данила Гордяев - lm_gordiaev
+Артем Тимофеев - lm_timofeev
+Вадим Раков - lm_rakov
+
