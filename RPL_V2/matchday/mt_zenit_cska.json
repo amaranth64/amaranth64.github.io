@@ -401,9 +401,9 @@
     {
         "type": 1,
         "textQue": "С каким счётом завершилась последняя встреча Зенита и ЦСКА?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "Зенит 2:2 ЦСКА (Д. Сантос 49', А. Соболев 90+3' - М. Кисляк 57', А. Шуманский 88')",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Зенит 2:2 ЦСКА",
         "wrSlgAns1": "no_pic",
@@ -420,9 +420,9 @@
     {
         "type": 1,
         "textQue": "Кто из этих футболистов играл и за ЦСКА, и за Зенит?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Саломон Рондон",
         "wrSlgAns1": "no_pic",
@@ -439,9 +439,9 @@
     {
         "type": 1,
         "textQue": "Кто из этих футболистов играл и за ЦСКА, и за Зенит?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "slugCorAns": "no_pic",
         "txtCorAns": "Юрий Жирков",
         "wrSlgAns1": "no_pic",
@@ -458,7 +458,7 @@
     {
         "type": 1,
         "textQue": "Кто из этих футболистов играл и за ЦСКА, и за Зенит?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "",
         "slugDlg": "zs_karavaev",
         "slugCorAns": "no_pic",
@@ -477,7 +477,7 @@
     {
         "type": 1,
         "textQue": "Кто из этих тренеров был у руля и Зенита, и ЦСКА?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska_quest.jpg",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "",
         "slugDlg": "zs_sadirin",
         "slugCorAns": "no_pic",
@@ -515,7 +515,7 @@
     {
         "type": 1,
         "textQue": "Как зовут этого игрока Зенита - победителя Кубка УЕФА 2008?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_faizulin_lg.webp",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "",
         "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/zs_faizulin_lg.webp",
         "slugCorAns": "no_pic",
