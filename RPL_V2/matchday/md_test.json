@@ -1,8 +1,8 @@
 {
-   "name": "Спартак - Зенит",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_spartak_zenit.json",
+   "name": "Зенит - ЦСКА",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_cska.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_zenit.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska.jpg",
    "visible": true
 }
