@@ -4,7 +4,7 @@ import pandas as pd
 
 def ExcelToJson(xl):
 
-    for x in xl.sheet_names[:1]:
+    for x in xl.sheet_names:
         df1 = xl.parse(x)
         data = [{} for _ in range(df1.count()['type'])]
         for y in df1.keys():
