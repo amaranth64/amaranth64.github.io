@@ -346,7 +346,7 @@
         "textQue": "С каким счётом завершилась последняя встреча Зенита и ЦСКА?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
         "comment": "ЦСКА 2:0 Зенит (М. Кисляк 37', Т. Мусаев 90+2') (4:3 пен)",
-        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
+        "slugDlg": "logo_cska",
         "slugCorAns": "no_pic",
         "txtCorAns": "ЦСКА 2:0 Зенит",
         "wrSlgAns1": "no_pic",
@@ -667,7 +667,7 @@
     {
         "type": 2,
         "textQue": "Последний матч между командами был сыгран в рамках Кубка России. Дошло до серии пенальти. Кто из игроков Зенита промахнулся с точки первым же ударом?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_cska_quest.jpg",
+        "slugQue": "logo_zenit",
         "comment": "ЦСКА 2:0 Зенит (М. Кисляк 37', Т. Мусаев 90+2') (4:3 пен)",
         "slugDlg": "zs_sobolev",
         "slugCorAns": "zs_sobolev",
