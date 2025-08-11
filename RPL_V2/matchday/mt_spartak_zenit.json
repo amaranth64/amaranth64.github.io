@@ -741,25 +741,6 @@
         "wrTxtAns5": "25 матчей"
     },
     {
-        "type": 2,
-        "textQue": "Кто забил оба гола Спартака в последнем матче между клубами?",
-        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_zenit_quest.jpg",
-        "comment": "",
-        "slugDlg": "spartak_martins",
-        "slugCorAns": "spartak_martins",
-        "txtCorAns": "Кристофер Мартинс",
-        "wrSlgAns1": "spartak_umyarov",
-        "wrTxtAns1": "Наиль Умяров",
-        "wrSlgAns2": "spartak_ugalde",
-        "wrTxtAns2": "Манфред Угальде",
-        "wrSlgAns3": "spartak_solari",
-        "wrTxtAns3": "Пабло Солари",
-        "wrSlgAns4": "spartak_marquinhos",
-        "wrTxtAns4": "Маркиньос",
-        "wrSlgAns5": "spartak_duarte",
-        "wrTxtAns5": "Алексис Дуарте"
-    },
-    {
         "type": 1,
         "textQue": "Какое событие считается переломным в отношениях между болельщиками Спартака и Зенита?",
         "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_zenit_quest.jpg",
