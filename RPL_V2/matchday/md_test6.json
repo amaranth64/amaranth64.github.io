@@ -1,8 +1,8 @@
 {
-   "name": "Локомотив - Спартак",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_spartak.json",
+   "name": "Спартак - Зенит",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_spartak_zenit.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_loko_spartak.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_spartak_zenit.jpg",
    "visible": true
 }
