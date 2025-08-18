@@ -1,0 +1,27 @@
+- cska_davila
+- cska_helven
+- cska_mendes
+
+
+cska_akinfeev
+cska_gajich
+cska_diveev
+cska_krugovoj
+cska_mojzes
+cska_rosha
+cska_bistrovich
+cska_zdelar
+cska_obljakov
+cska_faizulaev
+cska_koita
+cska_musaev
+
+
+Владислав Тороп - cska_torop
+Дуглас Келлвен - cska_kellven
+Амир Риванди - cska_rivandi
+Рифат Жемалетдинов - cska_zemalletdinov
+Миксим Мухин - cska_muhin - фотка уже есть в игре
+Миралем Пьянич - cska_pianich
+Сауль Гуарарапа - cska_guarirapa
+Тамерлан Мусаев - cska_musaev - фотка уже есть в игре

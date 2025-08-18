@@ -1,0 +1,24 @@
+- ro_utkin
+
+ro_yatimov
+ro_hankich
+ro_sako
+ro_melehin
+ro_elaskalani
+ro_vahania
+ro_osipenko
+ro_mohebi
+ro_schetinin
+ro_sutormin
+ro_glebov
+ro_bajramjan
+ro_saravia
+ro_ronaldo
+ro_komlichenko
+ro_golenkov
+
+
+
+Николай Поярков - ro_poyarkov
+Андрей Лангович - ro_langovich
+Константин Кучаев - ro_kuchaev

@@ -1,0 +1,35 @@
+- ks_orozko
+- ks_pisarskij
+
+
+ks_lomaev
+ks_frolov
+ks_bejl
+ks_galdames
+ks_evgenev
+ks_oros
+ks_rasskazov
+ks_soldatenkov
+ks_garre
+ks_ezhov
+ks_fernando
+ks_oveinikov
+ks_rahmanovich
+
+
+
+
+Сергей Песьяков - ks_pesiakov
+Илья Гапонов - ks_gaponov
+Кирилл Печенин - ks_pechenin
+Сергей Бабкин - ks_babkin
+Иван Бобер - ks_bober
+Максим Витюгов - ks_vitugov
+Игорь Дмитриев - ks_dmitriev
+Дмитрий Иванисеня - ks_ivanisenia
+Денис Якуба - ks_yakuba
+Ульви Бабаев - ks_babaev
+Павел Попов - ks_popov
+Иван Сергеев - ks_sergeev
+Дмитрий Цыпченко - ks_zypchenko
+Владислав Шитов - ks_shitov

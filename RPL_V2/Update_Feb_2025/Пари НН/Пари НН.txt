@@ -1,0 +1,24 @@
+- nn_glazer
+- nn_ogenovich
+- nn_silich
+- nn_turbo
+- nn_zivogliadov
+
+nn_medvedev
+nn_stamatov
+nn_ektov
+nn_kakkoev
+nn_gotsuk
+nn_maradishvili
+nn_majga
+nn_troshechkin
+nn_titich
+nn_kalinskij
+nn_boselli
+nn_kutateladze
+
+
+
+Магкеев Станислав - nn_magkeev
+Карапузов Владислав - nn_karapuzov
+Ермаков Никита - nn_ermakov

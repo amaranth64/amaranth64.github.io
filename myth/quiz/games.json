@@ -1,9 +1,27 @@
 [
- {
-   "title": "Вампиры и оборотни",
+   {
+   "title": "Оборотни",
    "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
-   "picURL": "pic2",
-   "description": "Викторина о вампирах и оборотнях"
+   "picURL": "vampir.webp",
+   "description": "Викторина об оборотнях"
+ },
+ {
+   "title": "Вампиры",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
+   "picURL": "vampir.webp",
+   "description": "Викторина о вампирах"
+ },
+   {
+   "title": "Вампиры в кино",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/vampire.json",
+   "picURL": "vampir.webp",
+   "description": "Викторина о вампирах в кино"
+ },
+ {
+   "title": "Мистические загадки",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/riddle.json",
+   "picURL": "riddle.webp",
+   "description": "Попробуй отгадать о ком речь!"
  },
  {
    "title": "Мифы славян",
@@ -12,15 +30,21 @@
    "description": "Домовые, болотники, кикиморы и многие другие"
  },
  {
-   "title": "Мифы Британии",
-   "slug": "https://amaranth64.github.io/myth/quiz/questions/britan_myth.json",
-   "picURL": "pic4",
-   "description": "Существа из мира Гарри Поттера и не только"
+   "title": "Вселенная Гарри Поттера",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/garry_potter.json",
+   "picURL": "garry_potter.webp",
+   "description": "Существа из магического мира Гарри Поттера"
  },
  {
    "title": "Городские легенды",
-   "slug": "https://amaranth64.github.io/myth/quiz/questions/city_legend.json",
-   "picURL": "pic5",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/urban_legends.json",
+   "picURL": "city_legends.webp",
+   "description": "Страшные истории - вымысел или правда?"
+ },
+ {
+   "title": "Мифы Древней Греции",
+   "slug": "https://amaranth64.github.io/myth/quiz/questions/ancient_greece.json",
+   "picURL": "ancient_greece.webp",
    "description": "Страшные истории - вымысел или правда?"
  }
 ]
