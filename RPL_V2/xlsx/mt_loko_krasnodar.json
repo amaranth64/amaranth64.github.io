@@ -587,5 +587,24 @@
         "wrTxtAns4": "Локомотив 0:2 Краснодар",
         "wrSlgAns5": "no_pic",
         "wrTxtAns5": "Локомотив 2:2 Краснодар"
+    },
+    {
+        "type": 1,
+        "textQue": "Кто этот знаменитый футболист, игрок Динамо в прошлом?",
+        "slugQue": "https://amaranth64.github.io/RPL_V2/matchday/images/https://amaranth64.github.io/RPL_V2/matchday/images/https://amaranth64.github.io/RPL_V2/matchday/images/dm_noboa.webp",
+        "comment": "",
+        "slugDlg": "https://amaranth64.github.io/RPL_V2/matchday/images/https://amaranth64.github.io/RPL_V2/matchday/images/https://amaranth64.github.io/RPL_V2/matchday/images/dm_noboa.webp",
+        "slugCorAns": "no_pic",
+        "txtCorAns": "Кристиан Нобоа",
+        "wrSlgAns1": "no_pic",
+        "wrTxtAns1": "Гекдениз Карадениз",
+        "wrSlgAns2": "no_pic",
+        "wrTxtAns2": "Алехандро Домингес",
+        "wrSlgAns3": "no_pic",
+        "wrTxtAns3": "Марио Фернандес",
+        "wrSlgAns4": "no_pic",
+        "wrTxtAns4": "Жоаозиньо",
+        "wrSlgAns5": "no_pic",
+        "wrTxtAns5": "Сесар Навас"
     }
 ]

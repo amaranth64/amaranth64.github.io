@@ -1,8 +1,8 @@
 {
-   "name": "Локомотив - Ростов",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_rostov.json",
+   "name": "ЦСКА - Краснодар",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_cska_krasnodar.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_loko_rostov.webp",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_cska_krasnodar.webp",
    "visible": true
 }
