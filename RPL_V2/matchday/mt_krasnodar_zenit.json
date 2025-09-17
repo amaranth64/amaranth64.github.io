@@ -304,7 +304,7 @@
         "wrTxtAns5": "6 место"
     },
     {
-        "type": 1,
+        "type": 4,
         "textQue": "На каком месте находится Зенит после восьми туров?",
         "slugQue": "logo_zenit",
         "comment": "13 очков",
@@ -340,25 +340,6 @@
         "wrTxtAns4": "Александр Соболев",
         "wrSlgAns5": "zs_sobolev",
         "wrTxtAns5": "Александр Соболев"
-    },
-    {
-        "type": 2,
-        "textQue": "Кто является лучшим бомбардиром Зенита в этом сезоне РПЛ?",
-        "slugQue": "logo_zenit",
-        "comment": "4 гола в 7 играх",
-        "slugDlg": "zs_kasserra",
-        "slugCorAns": "zs_kasserra",
-        "txtCorAns": "Матео Кассьерра",
-        "wrSlgAns1": "zs_vendel",
-        "wrTxtAns1": "Вендел",
-        "wrSlgAns2": "zs_klaudino",
-        "wrTxtAns2": "Клаудиньо",
-        "wrSlgAns3": "zs_glushenkov",
-        "wrTxtAns3": "Максим Глушенков",
-        "wrSlgAns4": "zs_erokhin",
-        "wrTxtAns4": "Александр Ерохин",
-        "wrSlgAns5": "zs_barrios",
-        "wrTxtAns5": "Вильмар Барриос"
     },
     {
         "type": 1,
@@ -397,25 +378,6 @@
         "wrTxtAns4": "Александр Анюков",
         "wrSlgAns5": "no_pic",
         "wrTxtAns5": "Роман Широков"
-    },
-    {
-        "type": 2,
-        "textQue": "Кто является текущим капитаном Зенита?",
-        "slugQue": "logo_zenit",
-        "comment": "Бразильский защитник_Перешёл в Зенит летом 2019 года из Гамбурга",
-        "slugDlg": "zs_santos",
-        "slugCorAns": "zs_santos",
-        "txtCorAns": "Дуглас Сантос",
-        "wrSlgAns1": "zs_kerzhakov",
-        "wrTxtAns1": "Михаил Кержаков",
-        "wrSlgAns2": "zs_erokhin",
-        "wrTxtAns2": "Александр Ерохин",
-        "wrSlgAns3": "zs_mostovoj",
-        "wrTxtAns3": "Андрей Мостовой",
-        "wrSlgAns4": "zs_barrios",
-        "wrTxtAns4": "Вильмар Барриос",
-        "wrSlgAns5": "zs_vendel",
-        "wrTxtAns5": "Вендел"
     },
     {
         "type": 6,
@@ -503,8 +465,8 @@
         "txtCorAns": "Краснодар",
         "wrSlgAns1": "logo_cska",
         "wrTxtAns1": "ЦСКА",
-        "wrSlgAns2": "logo_krasnodar",
-        "wrTxtAns2": "Зенит",
+        "wrSlgAns2": "logo_baltika",
+        "wrTxtAns2": "Балтика",
         "wrSlgAns3": "logo_zenit",
         "wrTxtAns3": "Зенит",
         "wrSlgAns4": "logo_spartak",
