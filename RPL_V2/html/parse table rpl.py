@@ -61,7 +61,6 @@ def delete_a(local_html_path):
     with open(local_html_path, 'r', encoding='utf-8') as file:
         local_soup = BeautifulSoup(file, 'html.parser')
 
-    # Поиск всех тегов <a> и удаление атрибута href
     for a_tag in local_soup.find_all('a'):
         a_tag.attrs.pop('href', None)
 
