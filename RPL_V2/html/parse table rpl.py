@@ -12,6 +12,7 @@ def parse(file, url, tag, clas=False):
     # Отправка GET-запроса на сайт
     response = requests.get(url)
 
+
     # Проверка статуса запроса
     if response.status_code == 200:
         # Парсинг HTML-кода страницы
