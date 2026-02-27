@@ -418,25 +418,6 @@
         "wrTxtAns5": "Лига Чемпионов"
     },
     {
-        "type": 4,
-        "textQue": "Правда, что Балтика самый западный клуб, когда-либо игравший в чемпионатах России?",
-        "slugQue": "logo_baltika",
-        "comment": "",
-        "slugDlg": "logo_baltika",
-        "slugCorAns": "no_pic",
-        "txtCorAns": "Да",
-        "wrSlgAns1": "no_pic",
-        "wrTxtAns1": "Нет",
-        "wrSlgAns2": "no_pic",
-        "wrTxtAns2": "Нет",
-        "wrSlgAns3": "no_pic",
-        "wrTxtAns3": "Нет",
-        "wrSlgAns4": "no_pic",
-        "wrTxtAns4": "Нет",
-        "wrSlgAns5": "no_pic",
-        "wrTxtAns5": "Нет"
-    },
-    {
         "type": 1,
         "textQue": "На базе какого предприятия был открыт клуб Балтика?",
         "slugQue": "logo_baltika",
