@@ -1,5 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
+
+
+def local_path(file_name):
+    return BASE_DIR / file_name
 
 
 def parse(file, url, tag, clas=False):
@@ -91,50 +99,50 @@ def remove_div_by_class(html_file_path, class_name):
     print(f"Теги <div> с классом '{class_name}' успешно удалены.")
 
 
-parse('tableRPL.html', '13/', 'competition_table')
-parse('tableFNL.html', '687/', 'competition_table')
-parse('cupRussia.html', '786/', 'page_main_content', clas=True)
-parse('statisticRPL.html', '13/', 'comp_column', clas=True)
-parse('statisticFNL.html', '687/', 'comp_column', clas=True)
+parse(local_path('tableRPL.html'), '13/', 'competition_table')
+parse(local_path('tableFNL.html'), '687/', 'competition_table')
+parse(local_path('cupRussia.html'), '786/', 'page_main_content', clas=True)
+parse(local_path('statisticRPL.html'), '13/', 'comp_column', clas=True)
+parse(local_path('statisticFNL.html'), '687/', 'comp_column', clas=True)
 
 
-#parse('calendarRPL.html', '13/shedule/', 'result_data')
-#parse('Статистика ФНЛ.html', '687/players/', 'mrgt5', clas=True)
+#parse(local_path('calendarRPL.html'), '13/shedule/', 'result_data')
+#parse(local_path('Статистика ФНЛ.html'), '687/players/', 'mrgt5', clas=True)
 
-with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
-    parse('itogRPL.html', '13/results/', 'result_data')
-    with open('itogRPL.html', 'r', encoding='utf-8', errors='ignore') as infile:
+with open(local_path('calendarRPL.html'), 'w', encoding='utf-8') as outfile:
+    parse(local_path('itogRPL.html'), '13/results/', 'result_data')
+    with open(local_path('itogRPL.html'), 'r', encoding='utf-8', errors='ignore') as infile:
         outfile.write(infile.read())
 
-    parse('itogRPL.html', '13/shedule/', 'result_data')
-    with open('itogRPL.html', 'r', encoding='utf-8', errors='ignore') as infile:
+    parse(local_path('itogRPL.html'), '13/shedule/', 'result_data')
+    with open(local_path('itogRPL.html'), 'r', encoding='utf-8', errors='ignore') as infile:
         outfile.write(infile.read())
 
-delete_a('tableRPL.html')
-delete_a('tableFNL.html')
-delete_a('cupRussia.html')
-delete_a('calendarRPL.html')
-delete_a('statisticRPL.html')
-delete_a('statisticFNL.html')
+delete_a(local_path('tableRPL.html'))
+delete_a(local_path('tableFNL.html'))
+delete_a(local_path('cupRussia.html'))
+delete_a(local_path('calendarRPL.html'))
+delete_a(local_path('statisticRPL.html'))
+delete_a(local_path('statisticFNL.html'))
 
-remove_div_by_class('calendarRPL.html', 'icons')
-remove_div_by_class('cupRussia.html', 'icons')
-#remove_div_by_class('statisticRPL.html', 'pager')
+remove_div_by_class(local_path('calendarRPL.html'), 'icons')
+remove_div_by_class(local_path('cupRussia.html'), 'icons')
+#remove_div_by_class(local_path('statisticRPL.html'), 'pager')
 
-with open('calendarRPL.html', 'r', encoding='utf-8') as outfile:
+with open(local_path('calendarRPL.html'), 'r', encoding='utf-8') as outfile:
     d = outfile.read()
     d = d.replace('Календарь РПЛ', 'Результаты', 1)
 
 
-with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
+with open(local_path('calendarRPL.html'), 'w', encoding='utf-8') as outfile:
     outfile.write(d)
 
-with open('calendarRPL.html', 'r', encoding='utf-8') as file:
+with open(local_path('calendarRPL.html'), 'r', encoding='utf-8') as file:
     soup = BeautifulSoup(file, 'html.parser')
     for div in soup.find_all('head')[1:]:
         div.decompose()
     for div in soup.find_all('span', class_='arrow')[1:]:
         div.decompose()
 
-with open('calendarRPL.html', 'w', encoding='utf-8') as outfile:
+with open(local_path('calendarRPL.html'), 'w', encoding='utf-8') as outfile:
     outfile.write(str(soup))

@@ -13,10 +13,10 @@ def ExcelToJson(xl):
                     data[i][y] = u
                 else:
                     data[i][y] = ""
-        with open(x + ".json", 'w', encoding='utf-8') as w:
+        with open('RPL_V2/matchday/' + x + ".json", 'w', encoding='utf-8') as w:
             json.dump(data, w, ensure_ascii=False, indent=4)
 
 
-name = 'Матч Тура 25-26'
+name = 'RPL_V2/xlsx/Матч Тура 25-26'
 xl = pd.ExcelFile(name + '.xlsx')
 ExcelToJson(xl)

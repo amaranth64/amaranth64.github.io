@@ -1,8 +1,8 @@
 {
-   "name": "Локомотив - ЦСКА",
-   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_loko_cska.json",
+   "name": "Зенит - Балтика",
+   "url": "https://amaranth64.github.io/RPL_V2/matchday/mt_zenit_baltika.json",
    "home": "logo_rpl",
    "guest": "logo_rpl",
-   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_loko_cska.jpg",
+   "picture": "https://amaranth64.github.io/RPL_V2/matchday/images/mt_zenit_baltika.webp",
    "visible": true
 }
